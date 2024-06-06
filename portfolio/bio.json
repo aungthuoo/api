@@ -1,4 +1,8 @@
 {
-  "name": "Aung Thu Oo",
-  "title": "Developer"
+  "status" : true,  
+  "developer" : {
+    "name": "Aung Thu Oo",
+    "title": "Developer"
+  }
+
 }
