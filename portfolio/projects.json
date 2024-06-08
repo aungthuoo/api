@@ -1,6 +1,5 @@
 {
-  "data" : 
-[
+  "data" : [
   {
     "title": "John Doe",
     "description": 30,
@@ -25,6 +24,6 @@
     "title": "John Doe",
     "description": 30,
     "images":[]
-  },
-]
+  }
+ ]
 }
