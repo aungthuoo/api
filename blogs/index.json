@@ -1,8 +1,13 @@
 [
   {
     "title": "Article 001",
-    "author": "Aung Thu Oo",
     "date" : "9 Jun, 2024", 
+    "author" : {
+      "name" : "Aung Thu Oo", 
+      "image" : "", 
+      "position" : "",
+      "link" : "https://linkedin.com/in/aungthuoo"
+    },
     "categories": [
       {
         "name": "React.js"
@@ -25,8 +30,13 @@
   },
   {
     "title": "Article 002",
-    "author": "Aung Thu Oo",
     "date" : "9 Jun, 2024", 
+    "author" : {
+      "name" : "Aung Thu Oo", 
+      "image" : "", 
+      "position" : "",
+      "link" : "https://linkedin.com/in/aungthuoo"
+    },
     "categories": [
       {
         "name": "Node.js"
