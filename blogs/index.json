@@ -2,6 +2,7 @@
   {
     "title": "Article 001",
     "company": "SoftwareZay",
+    "date" : "9 Jun, 2024", 
     "categories": [
       {
         "name": "React.js"
@@ -25,6 +26,7 @@
   {
     "title": "Article 002",
     "company": "SoftwareZay",
+    "date" : "9 Jun, 2024", 
     "categories": [
       {
         "name": "Node.js"
