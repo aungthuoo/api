@@ -4,43 +4,53 @@
   "data": [
     {
       "title": "MTF",
-      "image": "https://raw.githubusercontent.com/aungthuoo/apis/main/brands/images/mtf.png"
+      "image": "https://raw.githubusercontent.com/aungthuoo/apis/main/brands/images/mtf.png",
+      "link" : "https://myanmartennisfed.com/"
     },
     {
       "title": "Food Mall",
-      "image": "https://raw.githubusercontent.com/aungthuoo/apis/main/brands/images/foodmall.png"
+      "image": "https://raw.githubusercontent.com/aungthuoo/apis/main/brands/images/foodmall.png",
+      "link" : "#"
     },
     {
       "title": "Galaxy Software",
-      "image": "https://raw.githubusercontent.com/aungthuoo/apis/main/brands/images/galaxy.png"
+      "image": "https://raw.githubusercontent.com/aungthuoo/apis/main/brands/images/galaxy.png",
+      "link" : "https://galaxy.com.mm/"
     },
     {
       "title": "Hana Microfinance",
-      "image": "https://raw.githubusercontent.com/aungthuoo/apis/main/brands/images/hana.png"
+      "image": "https://raw.githubusercontent.com/aungthuoo/apis/main/brands/images/hana.png",
+      "link" : "https://hanamyanmar.com/"
     },
     {
       "title": "Mall Plus",
-      "image": "https://raw.githubusercontent.com/aungthuoo/apis/main/brands/images/mallplus.png"
+      "image": "https://raw.githubusercontent.com/aungthuoo/apis/main/brands/images/mallplus.png",
+      "link" : "https://hanamyanmar.com/"
     },
     {
       "title": "MIT",
-      "image": "https://raw.githubusercontent.com/aungthuoo/apis/main/brands/images/mit.png"
+      "image": "https://raw.githubusercontent.com/aungthuoo/apis/main/brands/images/mit.png",
+      "link" : "https://mallplusmm.com/"
     },
     {
       "title": "MMRD",
-      "image": "https://raw.githubusercontent.com/aungthuoo/apis/main/brands/images/mmrd.png"
+      "image": "https://raw.githubusercontent.com/aungthuoo/apis/main/brands/images/mmrd.png",
+      "link" : "https://www.mmrdrs.com/"
     },
     {
       "title": "Onenex",
-      "image": "https://raw.githubusercontent.com/aungthuoo/apis/main/brands/images/onenex.png"
+      "image": "https://raw.githubusercontent.com/aungthuoo/apis/main/brands/images/onenex.png",
+      "link" : "https://www.onenex.co/"
     },
     {
       "title": "SoftwareZay",
-      "image": "https://raw.githubusercontent.com/aungthuoo/apis/main/brands/images/softwarezay.png"
+      "image": "https://raw.githubusercontent.com/aungthuoo/apis/main/brands/images/softwarezay.png",
+      "link" : "https://softwarezay.com"
     },
     {
       "title": "Yangon Directory",
-      "image": "https://raw.githubusercontent.com/aungthuoo/apis/main/brands/images/yangondirectory.png"
+      "image": "https://raw.githubusercontent.com/aungthuoo/apis/main/brands/images/yangondirectory.png",
+      "link" : "http://www.yangondirectory.com/"
     }
   ]
 }
