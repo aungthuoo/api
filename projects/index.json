@@ -48,28 +48,32 @@
     ]
   },
   {
-    "title": "Online Booking System",
-    "sub_title": "Elevator Emergency Call System",
-    "client": "Myanmar Tennis Federation",
-    "company": "SoftwareZay",
+    "title": "Food Order Platform",
+    "sub_title": "Food Delivery Customer App",
+    "client": "Mall Plus",
+    "company": "Mall Plus Co.,Ltd.",
     "categories": [
       {
-        "name": "Hotel"
+        "name": "Android"
       },
       {
-        "name": "Playground"
+        "name": "iOS"
       },
       {
-        "name": "KTV"
+        "name": "Web app"
       }
     ],
-    "link": "https://myanmartennisfed.com",
+    "link": "https://mallplusmm.com",
     "description": "",
     "images": [
-      "https://raw.githubusercontent.com/aungthuoo/apis/main/projects/images/mtf/logo.png",
-      "https://raw.githubusercontent.com/aungthuoo/apis/main/projects/images/mtf/tennis-act.jpg",
-      "https://raw.githubusercontent.com/aungthuoo/apis/main/projects/images/mtf/tennis.jpg",
-      "https://raw.githubusercontent.com/aungthuoo/apis/main/projects/images/mtf/tennis-act-002.png"
+      "https://raw.githubusercontent.com/aungthuoo/apis/main/projects/images/mallplus/img-001.jpeg",
+      "https://raw.githubusercontent.com/aungthuoo/apis/main/projects/images/mallplus/img-002.jpeg",
+      "https://raw.githubusercontent.com/aungthuoo/apis/main/projects/images/mallplus/img-003.jpeg",
+      "https://raw.githubusercontent.com/aungthuoo/apis/main/projects/images/mallplus/img-004.jpeg",
+      "https://raw.githubusercontent.com/aungthuoo/apis/main/projects/images/mallplus/img-005.jpeg",
+      "https://raw.githubusercontent.com/aungthuoo/apis/main/projects/images/mallplus/img-006.jpeg",
+      "https://raw.githubusercontent.com/aungthuoo/apis/main/projects/images/mallplus/img-007.jpeg",
+      "https://raw.githubusercontent.com/aungthuoo/apis/main/projects/images/mallplus/img-008.jpeg"
     ]
   },
   {
