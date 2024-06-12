@@ -1,0 +1,29 @@
+  {
+    "title": "Online Booking System",
+    "sub_title": "Tennis Playground Booking System",
+    "slug": "online-booking-system",
+    "client": "Myanmar Tennis Federation",
+    "company": "SoftwareZay",
+    "categories": [
+      {
+        "name": "Web app"
+      },
+      {
+        "name": "Playground"
+      },
+      {
+        "name": "Hotel"
+      },
+      {
+        "name": "KTV"
+      }
+    ],
+    "link": "https://myanmartennisfed.com",
+    "description": "<span aria-hidden='true'><!---->Food Mall Customer app (Android, iOS) Flutter<span class='white-space-pre'> </span><br><!---->- The customers can register themselves through several alternatives such as mobile phones, emails, and social media accounts. There is robust back-end support available as well.<!----><br><!---->- It is easily possible to specify the details of your location either automatically or manually. There is a tracking facility available. It helps in keeping up with the current status of the order.<!----><br><!---->- Searching for food and restaurants: The consumers to quickly search the available restaurants in the area close by for food items.<!----><br><!---->- You will be notified about everything from food preparation in the restaurants to delivery to the doorstep. Customers will get alerts every instant.<!----><br><!---->-  Secure multi-payment alternatives: All authenticity interfaces are in place. There are third-party payment modules available that permit the consumers to make payments after receiving an order.<!----><br><!---->- Food seekers get advanced filtering alternatives such as organic, most-accessed, rating-based, and type of cuisine categories.<!----><br><!---->- Different consumers have direct access to alternatives available to the order history for quicker ordering the next time around.<!----><br><!---->- The user will have to register with the necessary info. He or she can register and log in to the app.<!----><br><!---->- Users can then go to the home page to nail down the specific items and stores.<!----><br><!---->- All your selected items will get annexed to the cart seamlessly.<!----><br><!---->- You can select from the various payment alternatives available. Make a payment and confirm the address where the food needs to be delivered.<!----><br><!---->- Users will be able to track the live location status of their order with a tracking feature in the app.<!----><br><!---->- The grocery products or food items are delivered to the consumer through the delivery executive.<!----><br><!---->- In the end, the users can rate their overall experience and food quality through the rating facility and reviews area.<!----><br><br><!---->Live running app link :  https://play.google.com/store/apps/details?id=com.mallplusmm.mallPlusCustomer<!----></span>",
+    "images": [
+      "https://raw.githubusercontent.com/aungthuoo/apis/main/projects/images/mtf/logo.png",
+      "https://raw.githubusercontent.com/aungthuoo/apis/main/projects/images/mtf/tennis-act.jpg",
+      "https://raw.githubusercontent.com/aungthuoo/apis/main/projects/images/mtf/tennis.jpg",
+      "https://raw.githubusercontent.com/aungthuoo/apis/main/projects/images/mtf/tennis-act-002.png"
+    ]
+  }

@@ -2,6 +2,7 @@
   {
     "title": "Online Booking System",
     "sub_title": "Tennis Playground Booking System",
+    "slug": "online-booking-system",
     "client": "Myanmar Tennis Federation",
     "company": "SoftwareZay",
     "categories": [
@@ -30,6 +31,7 @@
   {
     "title": "SOS System",
     "sub_title": "Elevator Emergency Call System",
+    "slug": "sos-system",
     "client": "Trust Tech Co.,Ltd.",
     "company": "SoftwareZay",
     "categories": [
@@ -50,6 +52,7 @@
   {
     "title": "Food Order Platform",
     "sub_title": "Food Delivery Customer App",
+    "slug": "food-order-platform",
     "client": "Mall Plus",
     "company": "Mall Plus Co.,Ltd.",
     "categories": [
@@ -79,6 +82,7 @@
   {
     "title": "Online Booking System",
     "sub_title": "Elevator Emergency Call System",
+    "slug": "online-booking-system",
     "client": "Myanmar Tennis Federation",
     "company": "SoftwareZay",
     "categories": [
@@ -104,6 +108,7 @@
   {
     "title": "Online Booking System",
     "sub_title": "Elevator Emergency Call System",
+    "slug": "online-booking-system",
     "client": "Myanmar Tennis Federation",
     "company": "SoftwareZay",
     "categories": [
