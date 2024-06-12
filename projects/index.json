@@ -24,21 +24,18 @@
     ]
   },
   {
-    "title": "Online Booking System",
-    "client": "Myanmar Tennis Federation",
+    "title": "Elevator Emergency Call System",
+    "client": "Trust Tech Co.,Ltd.",
     "company": "SoftwareZay",
     "categories": [
       {
-        "name": "Hotel"
+        "name": "Android"
       },
       {
-        "name": "Playground"
-      },
-      {
-        "name": "KTV"
+        "name": "iOS"
       }
     ],
-    "link": "https://myanmartennisfed.com",
+    "link": "#",
     "description": "",
     "images": [
       "https://raw.githubusercontent.com/aungthuoo/apis/main/projects/images/mtf/logo.png",
