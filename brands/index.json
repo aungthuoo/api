@@ -1,56 +1,56 @@
 {
   "title": "Partners trust to me",
-  "description": "Our success has come from being committed to the property and investing in the development of the product to maximize sales. At the same time and maintaining the integrity.",
+  "description": "I understand that trust is the cornerstone of any successful partnership. I pride ourselves on being the partner that businesses trust for their software project success. Our commitment to excellence and innovation ensures that our clients achieve their objectives efficiently and effectively.",
   "data": [
     {
       "title": "MTF",
       "image": "https://raw.githubusercontent.com/aungthuoo/apis/main/brands/images/mtf.png",
-      "link" : "https://myanmartennisfed.com/"
+      "link": "https://myanmartennisfed.com/"
     },
     {
       "title": "Food Mall",
       "image": "https://raw.githubusercontent.com/aungthuoo/apis/main/brands/images/foodmall.png",
-      "link" : "#"
+      "link": "#"
     },
     {
       "title": "Galaxy Software",
       "image": "https://raw.githubusercontent.com/aungthuoo/apis/main/brands/images/galaxy.png",
-      "link" : "https://galaxy.com.mm/"
+      "link": "https://galaxy.com.mm/"
     },
     {
       "title": "Hana Microfinance",
       "image": "https://raw.githubusercontent.com/aungthuoo/apis/main/brands/images/hana.png",
-      "link" : "https://hanamyanmar.com/"
+      "link": "https://hanamyanmar.com/"
     },
     {
       "title": "Mall Plus",
       "image": "https://raw.githubusercontent.com/aungthuoo/apis/main/brands/images/mallplus.png",
-      "link" : "https://hanamyanmar.com/"
+      "link": "https://hanamyanmar.com/"
     },
     {
       "title": "MIT",
       "image": "https://raw.githubusercontent.com/aungthuoo/apis/main/brands/images/mit.png",
-      "link" : "https://mallplusmm.com/"
+      "link": "https://mallplusmm.com/"
     },
     {
       "title": "MMRD",
       "image": "https://raw.githubusercontent.com/aungthuoo/apis/main/brands/images/mmrd.png",
-      "link" : "https://www.mmrdrs.com/"
+      "link": "https://www.mmrdrs.com/"
     },
     {
       "title": "Onenex",
       "image": "https://raw.githubusercontent.com/aungthuoo/apis/main/brands/images/onenex.png",
-      "link" : "https://www.onenex.co/"
+      "link": "https://www.onenex.co/"
     },
     {
       "title": "SoftwareZay",
       "image": "https://raw.githubusercontent.com/aungthuoo/apis/main/brands/images/softwarezay.png",
-      "link" : "https://softwarezay.com"
+      "link": "https://softwarezay.com"
     },
     {
       "title": "Yangon Directory",
       "image": "https://raw.githubusercontent.com/aungthuoo/apis/main/brands/images/yangondirectory.png",
-      "link" : "http://www.yangondirectory.com/"
+      "link": "http://www.yangondirectory.com/"
     }
   ]
 }

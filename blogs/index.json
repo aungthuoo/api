@@ -1,12 +1,12 @@
 [
   {
     "title": "Article 001",
-    "date" : "9 Jun, 2024", 
-    "author" : {
-      "name" : "Aung Thu Oo", 
-      "image" : "https://raw.githubusercontent.com/aungthuoo/apis/main/personal/ato/ato.jpeg", 
-      "position" : "Senior developer",
-      "link" : "https://linkedin.com/in/aungthuoo"
+    "date": "9 Jun, 2024",
+    "author": {
+      "name": "Aung Thu Oo",
+      "image": "https://raw.githubusercontent.com/aungthuoo/apis/main/personal/ato/ato.jpeg",
+      "position": "Senior developer",
+      "link": "https://linkedin.com/in/aungthuoo"
     },
     "categories": [
       {
@@ -20,7 +20,7 @@
       }
     ],
     "site": "https://myanmartennisfed.com",
-    "path": "/aungthuoo/9f77db8e7f97dcd050b405245fec2000",
+    "path": "/aungthuoo@9f77db8e7f97dcd050b405245fec2000",
     "description": "",
     "images": [
       "https://raw.githubusercontent.com/aungthuoo/apis/main/projects/images/mtf/tennis.jpg"
@@ -28,12 +28,12 @@
   },
   {
     "title": "Article 002",
-    "date" : "9 Jun, 2024", 
-    "author" : {
-      "name" : "Aung Thu Oo", 
-      "image" : "https://raw.githubusercontent.com/aungthuoo/apis/main/personal/ato/ato.jpeg", 
-       "position" : "Senior developer",
-      "link" : "https://linkedin.com/in/aungthuoo"
+    "date": "9 Jun, 2024",
+    "author": {
+      "name": "Aung Thu Oo",
+      "image": "https://raw.githubusercontent.com/aungthuoo/apis/main/personal/ato/ato.jpeg",
+      "position": "Senior developer",
+      "link": "https://linkedin.com/in/aungthuoo"
     },
     "categories": [
       {
@@ -47,7 +47,7 @@
       }
     ],
     "site": "https://myanmartennisfed.com",
-    "path": "/aungthuoo/93eccf3ab51cd6347e7a7aa7a3b10356",
+    "path": "/aungthuoo@93eccf3ab51cd6347e7a7aa7a3b10356",
     "description": "",
     "images": [
       "https://raw.githubusercontent.com/aungthuoo/apis/main/projects/images/mtf/tennis.jpg"
