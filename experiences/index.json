@@ -1,8 +1,9 @@
 [
   {
-    "position": "Senior Developer",
-    "slug": "senior-developer-hana-microfinance",
     "company": "Hana Microfinance",
+    "position": "Senior Developer",
+    "logo": "",
+    "slug": "senior-developer-hana-microfinance",
     "languages": [
       {
         "name": "React.js"
