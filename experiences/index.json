@@ -52,5 +52,59 @@
       "https://raw.githubusercontent.com/aungthuoo/apis/main/projects/images/mtf/tennis.jpg",
       "https://raw.githubusercontent.com/aungthuoo/apis/main/projects/images/mtf/tennis-act-002.png"
     ]
+  },
+  {
+    "company": "Hana Microfinance",
+    "position": "Senior Developer",
+    "logo": "https://raw.githubusercontent.com/aungthuoo/apis/main/experiences/images/hana.png",
+    "slug": "senior-developer-hana-microfinance",
+    "year": {
+      "from": "Jan-2024",
+      "to": "Present",
+      "duration": "6 mos"
+    },
+    "location": "Yangon, Myanmar. On-site",
+    "skills": [
+      {
+        "name": "React.js"
+      },
+      {
+        "name": "Node.js"
+      },
+      {
+        "name": "Laravel"
+      },
+      {
+        "name": "Docker"
+      },
+      {
+        "name": "AWS"
+      }
+    ],
+    "projects": [
+      {
+        "name": "React.js"
+      },
+      {
+        "name": "Node.js"
+      },
+      {
+        "name": "Laravel"
+      },
+      {
+        "name": "Docker"
+      },
+      {
+        "name": "AWS"
+      }
+    ],
+    "link": "https://hanamyanmar.com/",
+    "description": "<span aria-hidden='true'><!---->🔶 Responsibilities:<!----><br><!---->🔷 FinFlex Integration:<!----><br><br><!---->🔹Collaborated with cross-functional teams to understand requirements and design robust integration solutions.<!----><br><!---->🔹Implemented APIs and data pipelines to facilitate communication between FinFlex and other systems.<!----><br><br><!---->🔷 Loan App (Online/Offline):<!----><br><br><span class='white-space-pre'> </span>🔹Designed and implemented features for streamlined loan application processes, enhancing user experience and efficiency.<!----><br><!---->🔹Utilized modern technologies to enable offline functionality, ensuring accessibility in diverse environments.<!----><br><!---->🔹Worked closely with stakeholders to gather requirements and iterate on features to meet business objectives.<!----><br><br><!---->🔷 Internal Software:<!----><br><br><!---->🔹Contributed to the development of various internal software solutions aimed at optimizing workflow efficiency and productivity.<!----><br><!---->🔹Worked closely with end-users to understand pain points and develop tailored software solutions to address specific needs.<!----><br><!---->🔹Implemented features such as user authentication, data management, and reporting functionalities to enhance usability and effectiveness.<!----><br><!---->🔹Provided ongoing support and maintenance for internal software systems, including troubleshooting and bug fixing.<!----><br><br><!---->🔷 Tech Stack<!----><br><br><!---->🔹PHP (Laravel),<span class='white-space-pre'> </span><br><!---->🔹React.js,<!----><br><!---->🔹Node.js<!----><br><!---->🔹Docker<span class='white-space-pre'> </span><br><!---->🔹AWS<!----><br><!---->🔹Microsoft Power Platform, Power App<!----></span>",
+    "images": [
+      "https://raw.githubusercontent.com/aungthuoo/apis/main/experiences/images/hana.png",
+      "https://raw.githubusercontent.com/aungthuoo/apis/main/projects/images/mtf/tennis-act.jpg",
+      "https://raw.githubusercontent.com/aungthuoo/apis/main/projects/images/mtf/tennis.jpg",
+      "https://raw.githubusercontent.com/aungthuoo/apis/main/projects/images/mtf/tennis-act-002.png"
+    ]
   }
 ]
