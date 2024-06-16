@@ -2,7 +2,7 @@
   {
     "company": "Hana Microfinance",
     "position": "Senior Developer",
-    "logo": "",
+    "logo": "https://raw.githubusercontent.com/aungthuoo/apis/main/experiences/images/hana.png",
     "slug": "senior-developer-hana-microfinance",
     "languages": [
       {
@@ -41,7 +41,7 @@
     "link": "https://hanamyanmar.com/",
     "description": "",
     "images": [
-      "https://raw.githubusercontent.com/aungthuoo/apis/main/projects/images/mtf/logo.png",
+      "https://raw.githubusercontent.com/aungthuoo/apis/main/experiences/images/hana.png",
       "https://raw.githubusercontent.com/aungthuoo/apis/main/projects/images/mtf/tennis-act.jpg",
       "https://raw.githubusercontent.com/aungthuoo/apis/main/projects/images/mtf/tennis.jpg",
       "https://raw.githubusercontent.com/aungthuoo/apis/main/projects/images/mtf/tennis-act-002.png"
