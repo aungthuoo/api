@@ -45,12 +45,10 @@
       }
     ],
     "link": "https://hanamyanmar.com/",
+    "short_description": "",
     "description": "<span aria-hidden='true'><!---->🔶 Responsibilities:<!----><br><!---->🔷 FinFlex Integration:<!----><br><br><!---->🔹Collaborated with cross-functional teams to understand requirements and design robust integration solutions.<!----><br><!---->🔹Implemented APIs and data pipelines to facilitate communication between FinFlex and other systems.<!----><br><br><!---->🔷 Loan App (Online/Offline):<!----><br><br><span class='white-space-pre'> </span>🔹Designed and implemented features for streamlined loan application processes, enhancing user experience and efficiency.<!----><br><!---->🔹Utilized modern technologies to enable offline functionality, ensuring accessibility in diverse environments.<!----><br><!---->🔹Worked closely with stakeholders to gather requirements and iterate on features to meet business objectives.<!----><br><br><!---->🔷 Internal Software:<!----><br><br><!---->🔹Contributed to the development of various internal software solutions aimed at optimizing workflow efficiency and productivity.<!----><br><!---->🔹Worked closely with end-users to understand pain points and develop tailored software solutions to address specific needs.<!----><br><!---->🔹Implemented features such as user authentication, data management, and reporting functionalities to enhance usability and effectiveness.<!----><br><!---->🔹Provided ongoing support and maintenance for internal software systems, including troubleshooting and bug fixing.<!----><br><br><!---->🔷 Tech Stack<!----><br><br><!---->🔹PHP (Laravel),<span class='white-space-pre'> </span><br><!---->🔹React.js,<!----><br><!---->🔹Node.js<!----><br><!---->🔹Docker<span class='white-space-pre'> </span><br><!---->🔹AWS<!----><br><!---->🔹Microsoft Power Platform, Power App<!----></span>",
     "images": [
-      "https://raw.githubusercontent.com/aungthuoo/apis/main/experiences/images/hana.png",
-      "https://raw.githubusercontent.com/aungthuoo/apis/main/projects/images/mtf/tennis-act.jpg",
-      "https://raw.githubusercontent.com/aungthuoo/apis/main/projects/images/mtf/tennis.jpg",
-      "https://raw.githubusercontent.com/aungthuoo/apis/main/projects/images/mtf/tennis-act-002.png"
+      "https://raw.githubusercontent.com/aungthuoo/apis/main/experiences/images/hana.png"
     ]
   },
   {
@@ -102,12 +100,62 @@
       }
     ],
     "link": "https://sofrearezay.com/",
+    "short_description": "",
     "description": "<span aria-hidden='true'><!---->🔷 Projects<!----><br><br><!---->🔹YaeOhSin  Water Delivery ( Purified water delivery)<!----><br><!---->🔹RewardsTogether ( Loyalty App )<!----><br><!---->🔹OMG Game Shop ( Game credit sales )<!----><br><!---->🔹Ecommerce Apps<span class='white-space-pre'> </span><br><!---->🔹Van Car Sales ( Offline / Online sales App )<!----><br><!---->🔹Delivery Apps ( Food Mall, Mall Plus)<!----><br><!---->🔹News App ( CMS )<!----><br><br><!---->🔷 Tech Stack<span class='white-space-pre'> </span><br><br><!---->🔹React.js<span class='white-space-pre'> </span><br><!---->🔹Node.js<span class='white-space-pre'> </span><br><!---->🔹Laravel (PHP)<!----><br><!---->🔹Vue.js<span class='white-space-pre'> </span><br><!---->🔹Amazon Web Service (AWS)<!----><br><!---->🔹MySQL<!----><br><!---->🔹Git<!----></span>",
     "images": [
-      "https://raw.githubusercontent.com/aungthuoo/apis/main/experiences/images/softwarezay.png",
-      "https://raw.githubusercontent.com/aungthuoo/apis/main/projects/images/mtf/tennis-act.jpg",
-      "https://raw.githubusercontent.com/aungthuoo/apis/main/projects/images/mtf/tennis.jpg",
-      "https://raw.githubusercontent.com/aungthuoo/apis/main/projects/images/mtf/tennis-act-002.png"
+      "https://raw.githubusercontent.com/aungthuoo/apis/main/experiences/images/softwarezay.png"
+    ]
+  },
+  {
+    "company": "Onenex. YOMA Group",
+    "position": "Senior Software Engineer",
+    "logo": "https://raw.githubusercontent.com/aungthuoo/apis/main/experiences/images/softwarezay.png",
+    "slug": "senior-software-engineer",
+    "year": {
+      "from": "Jan 2023",
+      "to": "Dec 2023",
+      "duration": "4 yrs 6 mos"
+    },
+    "location": "Yangon, Myanmar. Contract",
+    "skills": [
+      {
+        "name": "Vue.js"
+      },
+      {
+        "name": "Node.js"
+      },
+      {
+        "name": "Laravel"
+      },
+      {
+        "name": "Docker"
+      },
+      {
+        "name": "AWS"
+      }
+    ],
+    "projects": [
+      {
+        "name": "React.js"
+      },
+      {
+        "name": "Node.js"
+      },
+      {
+        "name": "Laravel"
+      },
+      {
+        "name": "Docker"
+      },
+      {
+        "name": "AWS"
+      }
+    ],
+    "link": "https://www.onenex.co/",
+    "short_description": "",
+    "description": "<span aria-hidden='true'><!---->🔶 Responsibilities:<!----><br><!---->🔷 Pocket (Loyalty Point App):<!----><br><br><!---->🔹Played a key role in the development of the Pocket loyalty point app, focusing on enhancing user engagement and retention.<!----><br><!---->🔹Designed and implemented features to gamify the user experience, increasing user interaction and loyalty program participation.<!----><br><!---->🔹Integrated third-party APIs to enable seamless redemption of loyalty points across a diverse range of partner platforms.<!----><br><!---->🔹Collaborated with the design team to ensure a visually appealing and intuitive user interface, resulting in positive user feedback and increased usage metrics.<!----><br><!---->🔹Conducted performance optimization and bug fixing to ensure a smooth and responsive user experience across various devices.<!----><br><br><!---->🔷 Yoma Connect (HR Software):<!----><br><br><!---->🔹Led the development efforts for Yoma Connect, an innovative HR software solution aimed at streamlining employee management processes.<!----><br><!---->🔹Designed and implemented modules for employee onboarding, performance management, and time tracking, tailored to the specific needs of clients.<!----><br><!---->🔹Worked closely with HR professionals to gather requirements and iterate on features to align with industry best practices and regulatory compliance.<!----><br><!---->🔹Integrated advanced analytics and reporting functionalities to provide HR managers with actionable insights into workforce trends and performance metrics.<!----><br><!---->🔹Provided ongoing support and maintenance for Yoma Connect, including troubleshooting and implementing software updates to address evolving user needs and requirements.<!----><br><br><!---->🔷 Tech Stack<!----><br><!---->🔹PHP (Laravel),<span class='white-space-pre'> </span><br><!---->🔹Vue.js,<span class='white-space-pre'> </span><br><!---->🔹Node.js<!----><br><!---->🔹CI/CD,<span class='white-space-pre'> </span><br><!---->🔹AWS<!----><br><!---->🔹Git<!----></span>",
+    "images": [
+      "https://raw.githubusercontent.com/aungthuoo/apis/main/experiences/images/onenex.png"
     ]
   }
 ]
