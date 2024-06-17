@@ -157,5 +157,57 @@
     "images": [
       "https://raw.githubusercontent.com/aungthuoo/apis/main/experiences/images/onenex.png"
     ]
+  },
+  {
+    "company": "MallPlus Myanmar",
+    "position": "Full Stack Developer",
+    "logo": "https://raw.githubusercontent.com/aungthuoo/apis/main/experiences/images/mallplus.png",
+    "slug": "full-stack-developer",
+    "year": {
+      "from": "Nov 2022",
+      "to": "Dec 2023",
+      "duration": "1 yr 2 mos"
+    },
+    "location": "Yangon, Myanmar. Remote",
+    "skills": [
+      {
+        "name": "Vue.js"
+      },
+      {
+        "name": "Node.js"
+      },
+      {
+        "name": "Laravel"
+      },
+      {
+        "name": "Docker"
+      },
+      {
+        "name": "AWS"
+      }
+    ],
+    "projects": [
+      {
+        "name": "React.js"
+      },
+      {
+        "name": "Node.js"
+      },
+      {
+        "name": "Laravel"
+      },
+      {
+        "name": "Docker"
+      },
+      {
+        "name": "AWS"
+      }
+    ],
+    "link": "https://www.onenex.co/",
+    "short_description": "",
+    "description": "<span aria-hidden='true'><!---->🔶 Responsibilities:<!----><br><!---->🔷 Food Order Customer App:<!----><br><br><!---->🔹Led the development team in creating a user-friendly and intuitive food order customer app for iOS and Android platforms.<!----><br><!---->🔹Designed and implemented features such as menu browsing, order placement, payment processing, and order tracking.<!----><br><!---->🔹Integrated geolocation services for accurate restaurant discovery and delivery estimation.<!----><br><br><!---->🔷 Restaurant App:<!----><br><br><!---->🔹Implemented features for menu customization, table management, and inventory tracking to streamline restaurant operations.<!----><br><!---->🔹Integrated payment gateways and order management systems to facilitate seamless transactions and order fulfillment.<!----><br><!---->🔹Conducted training sessions for restaurant staff on app usage and provided ongoing technical support.<!----><br><br><!---->🔷 Biker/Rider Food Delivery App:<!----><br><br><!---->🔹Architected and developed a robust food delivery app for bikers/riders, enabling efficient order assignment, navigation, and delivery tracking.<!----><br><!---->🔹Implemented features for real-time order updates, route optimization, and proof of delivery confirmation.<!----><br><!---->🔹Optimized app performance for low-bandwidth environments to ensure reliable operation in all conditions.<!----><br><br><!---->🔷 Food Order Website:<!----><br><br><!---->🔹Led the development of a responsive and scalable food order website, catering to desktop and mobile users.<!----><br><!---->🔹Designed and implemented features such as user registration, restaurant search, and order management.<!----><br><!---->🔹Utilized modern web technologies to create a seamless user experience across devices.<!----><br><br><!---->🔷 Order Management Dashboard:<!----><br><br><!---->🔹Implemented features for order tracking, inventory management, and sales reporting.<!----><br><br><!---->🔷 Real-time Rider Tracking Website:<!----><br><br><!---->🔹Built a real-time rider tracking website to enable customers to monitor the status of their orders and track delivery progress.<!----><br><!---->🔹Integrated with the biker/rider app to fetch live location updates and estimated arrival times.<!----><br><br><!---->🔷 Tech Stack<!----><br><br><!---->🔹PHP (Laravel), React.js, Vue.js, Node.js, Flutter (Android, iOS), Docker, DigitalOcean<!----></span>",
+    "images": [
+      "https://raw.githubusercontent.com/aungthuoo/apis/main/experiences/images/mallplus.png"
+    ]
   }
 ]
