@@ -169,7 +169,7 @@
       "link": "https://softwarezay.com"
     },
     "client": {
-      "name": "Trust Tech Co.,Ltd",
+      "name": "Mall Plus Myanmar",
       "logo": "",
       "description": ""
     },
@@ -184,17 +184,13 @@
         "name": "Web app"
       }
     ],
-    "link": "https://mallplusmm.com",
+    "link": "https://play.google.com/store/apps/details?id=com.mallplusmm.biker&hl=en",
     "description": "",
     "images": [
-      "https://raw.githubusercontent.com/aungthuoo/apis/main/projects/images/mallplus/img-001.jpeg",
-      "https://raw.githubusercontent.com/aungthuoo/apis/main/projects/images/mallplus/img-002.jpeg",
-      "https://raw.githubusercontent.com/aungthuoo/apis/main/projects/images/mallplus/img-003.jpeg",
-      "https://raw.githubusercontent.com/aungthuoo/apis/main/projects/images/mallplus/img-004.jpeg",
-      "https://raw.githubusercontent.com/aungthuoo/apis/main/projects/images/mallplus/img-005.jpeg",
-      "https://raw.githubusercontent.com/aungthuoo/apis/main/projects/images/mallplus/img-006.jpeg",
-      "https://raw.githubusercontent.com/aungthuoo/apis/main/projects/images/mallplus/img-007.jpeg",
-      "https://raw.githubusercontent.com/aungthuoo/apis/main/projects/images/mallplus/img-008.jpeg"
+      "https://raw.githubusercontent.com/aungthuoo/apis/main/projects/images/mallplus/biker-app/img-001.png",
+      "https://raw.githubusercontent.com/aungthuoo/apis/main/projects/images/mallplus/biker-app/img-002.png",
+      "https://raw.githubusercontent.com/aungthuoo/apis/main/projects/images/mallplus/biker-app/img-003.png",
+      "https://raw.githubusercontent.com/aungthuoo/apis/main/projects/images/mallplus/biker-app/img-004.png"
     ]
   },
   {
@@ -224,7 +220,7 @@
         "name": "KTV"
       }
     ],
-    "link": "https://myanmartennisfed.com",
+    "link": "https://play.google.com/store/apps/details?id=com.mallplusmm.biker&hl=en",
     "description": "",
     "images": [
       "https://raw.githubusercontent.com/aungthuoo/apis/main/projects/images/mtf/logo.png",
