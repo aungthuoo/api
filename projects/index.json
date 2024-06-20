@@ -13,7 +13,7 @@
     "client": {
       "name": "Myanmar Tennis Federation",
       "logo": "",
-      "description": "A tennis booking system is a software application designed to manage the reservations of tennis courts. These systems are used by tennis clubs, sports facilities, and recreational centers to streamline the process of booking courts, managing schedules, and handling payments. "
+      "description": ""
     },
     "categories": [
       {
@@ -30,7 +30,7 @@
       }
     ],
     "link": "https://myanmartennisfed.com",
-    "description": "",
+    "description": "A tennis booking system is a software application designed to manage the reservations of tennis courts. These systems are used by tennis clubs, sports facilities, and recreational centers to streamline the process of booking courts, managing schedules, and handling payments. ",
     "images": [
       "https://raw.githubusercontent.com/aungthuoo/apis/main/projects/images/mtf/img-001.jpg",
       "https://raw.githubusercontent.com/aungthuoo/apis/main/projects/images/mtf/img-002.png",
