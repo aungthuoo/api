@@ -80,46 +80,6 @@
     ]
   },
   {
-    "title": "Pharmacy / Food Order Platform",
-    "sub_title": "Pharmacy/Food Delivery Customer App",
-    "slug": "food-order-platform",
-    "owner": {
-      "name": "SoftwareZay",
-      "logo": "https://raw.githubusercontent.com/aungthuoo/apis/main/projects/images/softwarezay/logo.png",
-      "type": "Software House",
-      "work_type": "Self-employee . Fulltime",
-      "link": "https://softwarezay.com"
-    },
-    "client": {
-      "name": "Trust Tech Co.,Ltd",
-      "logo": "",
-      "description": ""
-    },
-    "categories": [
-      {
-        "name": "Android"
-      },
-      {
-        "name": "iOS"
-      },
-      {
-        "name": "Web app"
-      }
-    ],
-    "link": "https://mallplusmm.com",
-    "description": "",
-    "images": [
-      "https://raw.githubusercontent.com/aungthuoo/apis/main/projects/images/mallplus/customer-app/img-001.jpeg",
-      "https://raw.githubusercontent.com/aungthuoo/apis/main/projects/images/mallplus/customer-app/img-002.jpeg",
-      "https://raw.githubusercontent.com/aungthuoo/apis/main/projects/images/mallplus/customer-app/img-003.jpeg",
-      "https://raw.githubusercontent.com/aungthuoo/apis/main/projects/images/mallplus/customer-app/img-004.jpeg",
-      "https://raw.githubusercontent.com/aungthuoo/apis/main/projects/images/mallplus/customer-app/img-005.jpeg",
-      "https://raw.githubusercontent.com/aungthuoo/apis/main/projects/images/mallplus/customer-app/img-006.jpeg",
-      "https://raw.githubusercontent.com/aungthuoo/apis/main/projects/images/mallplus/customer-app/img-007.jpeg",
-      "https://raw.githubusercontent.com/aungthuoo/apis/main/projects/images/mallplus/customer-app/img-008.jpeg"
-    ]
-  },
-  {
     "title": "Food Order Platform",
     "sub_title": "Food Delivery Customer App",
     "slug": "food-order-platform",
