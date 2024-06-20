@@ -6,10 +6,10 @@
     "client": "Myanmar Tennis Federation",
     "company": "SoftwareZay",
     "owner": {
-      "name": "SoftwareZay",
-      "logo": "https://raw.githubusercontent.com/aungthuoo/apis/main/projects/images/galaxy-software/logo.png",
-      "type": "Software House",
-      "work_type": "Employee . Fulltime"
+      "name": "Myanmar Tennis Federation",
+      "logo": "https://raw.githubusercontent.com/aungthuoo/apis/main/projects/images/mtf/logo.png",
+      "type": "Organization",
+      "work_type": "Freelancer . Part-time"
     },
     "categories": [
       {
