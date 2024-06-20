@@ -80,7 +80,7 @@
     ]
   },
   {
-    "title": "Pharmacy/Food Order Platform",
+    "title": "Pharmacy / Food Order Platform",
     "sub_title": "Pharmacy/Food Delivery Customer App",
     "slug": "food-order-platform",
     "owner": {
@@ -186,17 +186,15 @@
         "name": "Web app"
       }
     ],
-    "link": "https://mallplusmm.com",
+    "link": "https://play.google.com/store/apps/details?id=com.mallplusmm.restaurant&hl=en",
     "description": "",
     "images": [
-      "https://raw.githubusercontent.com/aungthuoo/apis/main/projects/images/mallplus/img-001.jpeg",
-      "https://raw.githubusercontent.com/aungthuoo/apis/main/projects/images/mallplus/img-002.jpeg",
-      "https://raw.githubusercontent.com/aungthuoo/apis/main/projects/images/mallplus/img-003.jpeg",
-      "https://raw.githubusercontent.com/aungthuoo/apis/main/projects/images/mallplus/img-004.jpeg",
-      "https://raw.githubusercontent.com/aungthuoo/apis/main/projects/images/mallplus/img-005.jpeg",
-      "https://raw.githubusercontent.com/aungthuoo/apis/main/projects/images/mallplus/img-006.jpeg",
-      "https://raw.githubusercontent.com/aungthuoo/apis/main/projects/images/mallplus/img-007.jpeg",
-      "https://raw.githubusercontent.com/aungthuoo/apis/main/projects/images/mallplus/img-008.jpeg"
+      "https://raw.githubusercontent.com/aungthuoo/apis/main/projects/images/mallplus/img-001.png",
+      "https://raw.githubusercontent.com/aungthuoo/apis/main/projects/images/mallplus/img-002.png",
+      "https://raw.githubusercontent.com/aungthuoo/apis/main/projects/images/mallplus/img-003.png",
+      "https://raw.githubusercontent.com/aungthuoo/apis/main/projects/images/mallplus/img-004.png",
+      "https://raw.githubusercontent.com/aungthuoo/apis/main/projects/images/mallplus/img-005.png",
+      "https://raw.githubusercontent.com/aungthuoo/apis/main/projects/images/mallplus/img-006.png"
     ]
   },
   {
