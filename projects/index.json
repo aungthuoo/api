@@ -5,6 +5,12 @@
     "slug": "online-booking-system",
     "client": "Myanmar Tennis Federation",
     "company": "SoftwareZay",
+    "owner": {
+      "name": "SoftwareZay",
+      "logo": "https://raw.githubusercontent.com/aungthuoo/apis/main/projects/images/galaxy-software/logo.png",
+      "type": "Software House",
+      "work_type": "Employee . Fulltime"
+    },
     "categories": [
       {
         "name": "Web app"
@@ -34,6 +40,12 @@
     "slug": "sos-system",
     "client": "Trust Tech Co.,Ltd.",
     "company": "SoftwareZay",
+    "owner": {
+      "name": "SoftwareZay",
+      "logo": "https://raw.githubusercontent.com/aungthuoo/apis/main/projects/images/galaxy-software/logo.png",
+      "type": "Software House",
+      "work_type": "Employee . Fulltime"
+    },
     "categories": [
       {
         "name": "Android"
@@ -55,6 +67,12 @@
     "slug": "food-order-platform",
     "client": "Mall Plus",
     "company": "Mall Plus Co.,Ltd.",
+    "owner": {
+      "name": "SoftwareZay",
+      "logo": "https://raw.githubusercontent.com/aungthuoo/apis/main/projects/images/galaxy-software/logo.png",
+      "type": "Software House",
+      "work_type": "Employee . Fulltime"
+    },
     "categories": [
       {
         "name": "Android"
@@ -85,6 +103,12 @@
     "slug": "food-order-platform",
     "client": "Mall Plus",
     "company": "Mall Plus Co.,Ltd.",
+    "owner": {
+      "name": "SoftwareZay",
+      "logo": "https://raw.githubusercontent.com/aungthuoo/apis/main/projects/images/galaxy-software/logo.png",
+      "type": "Software House",
+      "work_type": "Employee . Fulltime"
+    },
     "categories": [
       {
         "name": "Android"
@@ -115,6 +139,12 @@
     "slug": "food-order-platform",
     "client": "Mall Plus",
     "company": "Mall Plus Co.,Ltd.",
+    "owner": {
+      "name": "SoftwareZay",
+      "logo": "https://raw.githubusercontent.com/aungthuoo/apis/main/projects/images/galaxy-software/logo.png",
+      "type": "Software House",
+      "work_type": "Employee . Fulltime"
+    },
     "categories": [
       {
         "name": "Android"
@@ -145,6 +175,12 @@
     "slug": "food-order-platform",
     "client": "Mall Plus",
     "company": "Mall Plus Co.,Ltd.",
+    "owner": {
+      "name": "SoftwareZay",
+      "logo": "https://raw.githubusercontent.com/aungthuoo/apis/main/projects/images/galaxy-software/logo.png",
+      "type": "Software House",
+      "work_type": "Employee . Fulltime"
+    },
     "categories": [
       {
         "name": "Android"
@@ -175,6 +211,12 @@
     "slug": "online-booking-system",
     "client": "Myanmar Tennis Federation",
     "company": "SoftwareZay",
+    "owner": {
+      "name": "SoftwareZay",
+      "logo": "https://raw.githubusercontent.com/aungthuoo/apis/main/projects/images/galaxy-software/logo.png",
+      "type": "Software House",
+      "work_type": "Employee . Fulltime"
+    },
     "categories": [
       {
         "name": "Hotel"
@@ -201,6 +243,12 @@
     "slug": "online-booking-system",
     "client": "Myanmar Tennis Federation",
     "company": "SoftwareZay",
+    "owner": {
+      "name": "SoftwareZay",
+      "logo": "https://raw.githubusercontent.com/aungthuoo/apis/main/projects/images/galaxy-software/logo.png",
+      "type": "Software House",
+      "work_type": "Employee . Fulltime"
+    },
     "categories": [
       {
         "name": "Hotel"
@@ -227,6 +275,12 @@
     "slug": "yangon-directory",
     "client": "Myanmar Tennis Federation",
     "company": "SoftwareZay",
+    "owner": {
+      "name": "SoftwareZay",
+      "logo": "https://raw.githubusercontent.com/aungthuoo/apis/main/projects/images/galaxy-software/logo.png",
+      "type": "Software House",
+      "work_type": "Employee . Fulltime"
+    },
     "categories": [
       {
         "name": "Hotel"
@@ -253,6 +307,12 @@
     "slug": "mandalay-directory",
     "client": "Myanmar Tennis Federation",
     "company": "SoftwareZay",
+    "owner": {
+      "name": "SoftwareZay",
+      "logo": "https://raw.githubusercontent.com/aungthuoo/apis/main/projects/images/galaxy-software/logo.png",
+      "type": "Software House",
+      "work_type": "Employee . Fulltime"
+    },
     "categories": [
       {
         "name": "Hotel"
@@ -279,6 +339,12 @@
     "slug": "mandalay-directory",
     "client": "Myanmar Tennis Federation",
     "company": "YKKO Co.,Ltd.",
+    "owner": {
+      "name": "SoftwareZay",
+      "logo": "https://raw.githubusercontent.com/aungthuoo/apis/main/projects/images/galaxy-software/logo.png",
+      "type": "Software House",
+      "work_type": "Employee . Fulltime"
+    },
     "categories": [
       {
         "name": "Hotel"
@@ -305,6 +371,12 @@
     "slug": "erp-v5",
     "client": "MIT",
     "company": "Myanmar Infirmation Technology Co.,Ltd.",
+    "owner": {
+      "name": "Myanmar Infirmation Technology Co.,Ltd.",
+      "logo": "https://raw.githubusercontent.com/aungthuoo/apis/main/projects/images/galaxy-software/logo.png",
+      "type": "Software House",
+      "work_type": "Employee . Fulltime"
+    },
     "categories": [
       {
         "name": "Hotel"
@@ -330,7 +402,13 @@
     "sub_title": "iLedger",
     "slug": "iledger",
     "client": "MIT",
-    "company": "iNTEGER Co.,Ltd.",
+    "company": "iNTEGER System Co.,Ltd.",
+    "owner": {
+      "name": "iNTEGER System Co.,Ltd.",
+      "logo": "https://raw.githubusercontent.com/aungthuoo/apis/main/projects/images/galaxy-software/logo.png",
+      "type": "Software House",
+      "work_type": "Employee . Fulltime"
+    },
     "categories": [
       {
         "name": "Hotel"
@@ -352,11 +430,18 @@
     ]
   },
   {
-    "title": "Inventroy Control System",
+    "title": "Inventory Control System",
     "sub_title": "iStock",
     "slug": "istock",
     "client": "Galaxy Software Co.,Ltd.",
     "company": "Galaxy Software Co.,Ltd.",
+    "logo": "https://raw.githubusercontent.com/aungthuoo/apis/main/projects/images/galaxy-software/logo.png",
+    "owner": {
+      "name": "Galaxy Software",
+      "logo": "https://raw.githubusercontent.com/aungthuoo/apis/main/projects/images/galaxy-software/logo.png",
+      "type": "Software House",
+      "work_type": "Employee . Fulltime"
+    },
     "categories": [
       {
         "name": "Accounting"
