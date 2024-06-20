@@ -29,7 +29,7 @@
     ]
   },
   {
-    "title": "SOS System",
+    "title": "Emergency call/ SOS System",
     "sub_title": "Elevator Emergency Call System",
     "slug": "sos-system",
     "client": "Trust Tech Co.,Ltd.",
@@ -47,6 +47,36 @@
     "images": [
       "https://raw.githubusercontent.com/aungthuoo/apis/main/projects/images/trust-tech/img-001.png",
       "https://raw.githubusercontent.com/aungthuoo/apis/main/projects/images/trust-tech/img-002.png"
+    ]
+  },
+  {
+    "title": "Pharmacy/Food Order Platform",
+    "sub_title": "Pharmacy/Food Delivery Customer App",
+    "slug": "food-order-platform",
+    "client": "Mall Plus",
+    "company": "Mall Plus Co.,Ltd.",
+    "categories": [
+      {
+        "name": "Android"
+      },
+      {
+        "name": "iOS"
+      },
+      {
+        "name": "Web app"
+      }
+    ],
+    "link": "https://mallplusmm.com",
+    "description": "",
+    "images": [
+      "https://raw.githubusercontent.com/aungthuoo/apis/main/projects/images/mallplus/img-001.jpeg",
+      "https://raw.githubusercontent.com/aungthuoo/apis/main/projects/images/mallplus/img-002.jpeg",
+      "https://raw.githubusercontent.com/aungthuoo/apis/main/projects/images/mallplus/img-003.jpeg",
+      "https://raw.githubusercontent.com/aungthuoo/apis/main/projects/images/mallplus/img-004.jpeg",
+      "https://raw.githubusercontent.com/aungthuoo/apis/main/projects/images/mallplus/img-005.jpeg",
+      "https://raw.githubusercontent.com/aungthuoo/apis/main/projects/images/mallplus/img-006.jpeg",
+      "https://raw.githubusercontent.com/aungthuoo/apis/main/projects/images/mallplus/img-007.jpeg",
+      "https://raw.githubusercontent.com/aungthuoo/apis/main/projects/images/mallplus/img-008.jpeg"
     ]
   },
   {
@@ -80,8 +110,68 @@
     ]
   },
   {
-    "title": "Online Booking System",
-    "sub_title": "Elevator Emergency Call System",
+    "title": "Order Management Restaurant System",
+    "sub_title": "Food Delivery Restaurant App",
+    "slug": "food-order-platform",
+    "client": "Mall Plus",
+    "company": "Mall Plus Co.,Ltd.",
+    "categories": [
+      {
+        "name": "Android"
+      },
+      {
+        "name": "iOS"
+      },
+      {
+        "name": "Web app"
+      }
+    ],
+    "link": "https://mallplusmm.com",
+    "description": "",
+    "images": [
+      "https://raw.githubusercontent.com/aungthuoo/apis/main/projects/images/mallplus/img-001.jpeg",
+      "https://raw.githubusercontent.com/aungthuoo/apis/main/projects/images/mallplus/img-002.jpeg",
+      "https://raw.githubusercontent.com/aungthuoo/apis/main/projects/images/mallplus/img-003.jpeg",
+      "https://raw.githubusercontent.com/aungthuoo/apis/main/projects/images/mallplus/img-004.jpeg",
+      "https://raw.githubusercontent.com/aungthuoo/apis/main/projects/images/mallplus/img-005.jpeg",
+      "https://raw.githubusercontent.com/aungthuoo/apis/main/projects/images/mallplus/img-006.jpeg",
+      "https://raw.githubusercontent.com/aungthuoo/apis/main/projects/images/mallplus/img-007.jpeg",
+      "https://raw.githubusercontent.com/aungthuoo/apis/main/projects/images/mallplus/img-008.jpeg"
+    ]
+  },
+  {
+    "title": "Location Tracking System",
+    "sub_title": "Food Delivery Biker App",
+    "slug": "food-order-platform",
+    "client": "Mall Plus",
+    "company": "Mall Plus Co.,Ltd.",
+    "categories": [
+      {
+        "name": "Android"
+      },
+      {
+        "name": "iOS"
+      },
+      {
+        "name": "Web app"
+      }
+    ],
+    "link": "https://mallplusmm.com",
+    "description": "",
+    "images": [
+      "https://raw.githubusercontent.com/aungthuoo/apis/main/projects/images/mallplus/img-001.jpeg",
+      "https://raw.githubusercontent.com/aungthuoo/apis/main/projects/images/mallplus/img-002.jpeg",
+      "https://raw.githubusercontent.com/aungthuoo/apis/main/projects/images/mallplus/img-003.jpeg",
+      "https://raw.githubusercontent.com/aungthuoo/apis/main/projects/images/mallplus/img-004.jpeg",
+      "https://raw.githubusercontent.com/aungthuoo/apis/main/projects/images/mallplus/img-005.jpeg",
+      "https://raw.githubusercontent.com/aungthuoo/apis/main/projects/images/mallplus/img-006.jpeg",
+      "https://raw.githubusercontent.com/aungthuoo/apis/main/projects/images/mallplus/img-007.jpeg",
+      "https://raw.githubusercontent.com/aungthuoo/apis/main/projects/images/mallplus/img-008.jpeg"
+    ]
+  },
+  {
+    "title": "Online Hotel Booking System",
+    "sub_title": "Min nandar hotel booking system",
     "slug": "online-booking-system",
     "client": "Myanmar Tennis Federation",
     "company": "SoftwareZay",
@@ -106,8 +196,8 @@
     ]
   },
   {
-    "title": "Online Booking System",
-    "sub_title": "Elevator Emergency Call System",
+    "title": "Home/ apartment rent and sale system",
+    "sub_title": "Find Property Real Estate Co.,Ltd.",
     "slug": "online-booking-system",
     "client": "Myanmar Tennis Federation",
     "company": "SoftwareZay",
@@ -129,6 +219,160 @@
       "https://raw.githubusercontent.com/aungthuoo/apis/main/projects/images/mtf/tennis-act.jpg",
       "https://raw.githubusercontent.com/aungthuoo/apis/main/projects/images/mtf/tennis.jpg",
       "https://raw.githubusercontent.com/aungthuoo/apis/main/projects/images/mtf/tennis-act-002.png"
+    ]
+  },
+  {
+    "title": "Directory",
+    "sub_title": "Yangon Directory",
+    "slug": "yangon-directory",
+    "client": "Myanmar Tennis Federation",
+    "company": "SoftwareZay",
+    "categories": [
+      {
+        "name": "Hotel"
+      },
+      {
+        "name": "Playground"
+      },
+      {
+        "name": "KTV"
+      }
+    ],
+    "link": "https://myanmartennisfed.com",
+    "description": "",
+    "images": [
+      "https://raw.githubusercontent.com/aungthuoo/apis/main/projects/images/mtf/logo.png",
+      "https://raw.githubusercontent.com/aungthuoo/apis/main/projects/images/mtf/tennis-act.jpg",
+      "https://raw.githubusercontent.com/aungthuoo/apis/main/projects/images/mtf/tennis.jpg",
+      "https://raw.githubusercontent.com/aungthuoo/apis/main/projects/images/mtf/tennis-act-002.png"
+    ]
+  },
+  {
+    "title": "Directory",
+    "sub_title": "Manadalay Directory",
+    "slug": "mandalay-directory",
+    "client": "Myanmar Tennis Federation",
+    "company": "SoftwareZay",
+    "categories": [
+      {
+        "name": "Hotel"
+      },
+      {
+        "name": "Playground"
+      },
+      {
+        "name": "KTV"
+      }
+    ],
+    "link": "https://myanmartennisfed.com",
+    "description": "",
+    "images": [
+      "https://raw.githubusercontent.com/aungthuoo/apis/main/projects/images/mtf/logo.png",
+      "https://raw.githubusercontent.com/aungthuoo/apis/main/projects/images/mtf/tennis-act.jpg",
+      "https://raw.githubusercontent.com/aungthuoo/apis/main/projects/images/mtf/tennis.jpg",
+      "https://raw.githubusercontent.com/aungthuoo/apis/main/projects/images/mtf/tennis-act-002.png"
+    ]
+  },
+  {
+    "title": "Waiter App",
+    "sub_title": "YKKO Restaurant Order System",
+    "slug": "mandalay-directory",
+    "client": "Myanmar Tennis Federation",
+    "company": "YKKO Co.,Ltd.",
+    "categories": [
+      {
+        "name": "Hotel"
+      },
+      {
+        "name": "Playground"
+      },
+      {
+        "name": "KTV"
+      }
+    ],
+    "link": "https://myanmartennisfed.com",
+    "description": "",
+    "images": [
+      "https://raw.githubusercontent.com/aungthuoo/apis/main/projects/images/mtf/logo.png",
+      "https://raw.githubusercontent.com/aungthuoo/apis/main/projects/images/mtf/tennis-act.jpg",
+      "https://raw.githubusercontent.com/aungthuoo/apis/main/projects/images/mtf/tennis.jpg",
+      "https://raw.githubusercontent.com/aungthuoo/apis/main/projects/images/mtf/tennis-act-002.png"
+    ]
+  },
+  {
+    "title": "ERP Accounting System",
+    "sub_title": "ERP V5",
+    "slug": "erp-v5",
+    "client": "MIT",
+    "company": "Myanmar Infirmation Technology Co.,Ltd.",
+    "categories": [
+      {
+        "name": "Hotel"
+      },
+      {
+        "name": "Playground"
+      },
+      {
+        "name": "KTV"
+      }
+    ],
+    "link": "https://myanmartennisfed.com",
+    "description": "",
+    "images": [
+      "https://raw.githubusercontent.com/aungthuoo/apis/main/projects/images/mtf/logo.png",
+      "https://raw.githubusercontent.com/aungthuoo/apis/main/projects/images/mtf/tennis-act.jpg",
+      "https://raw.githubusercontent.com/aungthuoo/apis/main/projects/images/mtf/tennis.jpg",
+      "https://raw.githubusercontent.com/aungthuoo/apis/main/projects/images/mtf/tennis-act-002.png"
+    ]
+  },
+  {
+    "title": "Accounting System",
+    "sub_title": "iLedger",
+    "slug": "iledger",
+    "client": "MIT",
+    "company": "iNTEGER Co.,Ltd.",
+    "categories": [
+      {
+        "name": "Hotel"
+      },
+      {
+        "name": "Playground"
+      },
+      {
+        "name": "KTV"
+      }
+    ],
+    "link": "https://myanmartennisfed.com",
+    "description": "",
+    "images": [
+      "https://raw.githubusercontent.com/aungthuoo/apis/main/projects/images/mtf/logo.png",
+      "https://raw.githubusercontent.com/aungthuoo/apis/main/projects/images/mtf/tennis-act.jpg",
+      "https://raw.githubusercontent.com/aungthuoo/apis/main/projects/images/mtf/tennis.jpg",
+      "https://raw.githubusercontent.com/aungthuoo/apis/main/projects/images/mtf/tennis-act-002.png"
+    ]
+  },
+  {
+    "title": "Inventroy Control System",
+    "sub_title": "iStock",
+    "slug": "istock",
+    "client": "Galaxy Software Co.,Ltd.",
+    "company": "Galaxy Software Co.,Ltd.",
+    "categories": [
+      {
+        "name": "Accounting"
+      },
+      {
+        "name": "Inventory"
+      },
+      {
+        "name": "Desktop App"
+      }
+    ],
+    "link": "https://galaxy.com.mm/",
+    "description": "iStock®, Inventory Control System, is a software for keeping track of inventory. iStock® can handle sales, purchasing, inventory management and control of your business transactions including debit/credit, expenses, profit & loss and balance sheet. iStock is simple, fast, secure, easy to learn and straight forward to use.",
+    "images": [
+      "https://raw.githubusercontent.com/aungthuoo/apis/main/projects/images/galaxy-software/logo.png",
+      "https://raw.githubusercontent.com/aungthuoo/apis/main/projects/images/galaxy-software/istock.png"
     ]
   }
 ]
