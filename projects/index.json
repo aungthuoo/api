@@ -3,16 +3,17 @@
     "title": "Online Booking System",
     "sub_title": "Tennis Playground Booking System",
     "slug": "online-booking-system",
-    "client": {
-      "name": "Myanmar Tennis Federation",
-      "logo": "",
-      "description": ""
-    },
     "owner": {
       "name": "Myanmar Tennis Federation",
       "logo": "https://raw.githubusercontent.com/aungthuoo/apis/main/projects/images/mtf/logo.png",
       "type": "Organization",
-      "work_type": "Freelancer . Part-time"
+      "work_type": "Freelancer . Part-time",
+      "link": ""
+    },
+    "client": {
+      "name": "Myanmar Tennis Federation",
+      "logo": "",
+      "description": ""
     },
     "categories": [
       {
@@ -41,16 +42,17 @@
     "title": "Emergency call/ SOS System",
     "sub_title": "Elevator Emergency Call System",
     "slug": "sos-system",
+    "owner": {
+      "name": "SoftwareZay",
+      "logo": "https://raw.githubusercontent.com/aungthuoo/apis/main/projects/images/softarezay/logo.png",
+      "type": "Software House",
+      "work_type": "Self-employee . Fulltime",
+      "link": "https://softwarezay.com"
+    },
     "client": {
       "name": "Trust Tech Co.,Ltd",
       "logo": "",
       "description": ""
-    },
-    "owner": {
-      "name": "SoftwareZay",
-      "logo": "https://raw.githubusercontent.com/aungthuoo/apis/main/projects/images/softwarezay/logo.png",
-      "type": "Software Company",
-      "work_type": "Self-employee . Fulltime"
     },
     "categories": [
       {
@@ -76,16 +78,17 @@
     "title": "Pharmacy/Food Order Platform",
     "sub_title": "Pharmacy/Food Delivery Customer App",
     "slug": "food-order-platform",
+    "owner": {
+      "name": "SoftwareZay",
+      "logo": "https://raw.githubusercontent.com/aungthuoo/apis/main/projects/images/softarezay/logo.png",
+      "type": "Software House",
+      "work_type": "Self-employee . Fulltime",
+      "link": "https://softwarezay.com"
+    },
     "client": {
       "name": "Trust Tech Co.,Ltd",
       "logo": "",
       "description": ""
-    },
-    "owner": {
-      "name": "SoftwareZay",
-      "logo": "https://raw.githubusercontent.com/aungthuoo/apis/main/projects/images/galaxy-software/logo.png",
-      "type": "Software House",
-      "work_type": "Employee . Fulltime"
     },
     "categories": [
       {
@@ -115,16 +118,17 @@
     "title": "Food Order Platform",
     "sub_title": "Food Delivery Customer App",
     "slug": "food-order-platform",
+    "owner": {
+      "name": "SoftwareZay",
+      "logo": "https://raw.githubusercontent.com/aungthuoo/apis/main/projects/images/softarezay/logo.png",
+      "type": "Software House",
+      "work_type": "Self-employee . Fulltime",
+      "link": "https://softwarezay.com"
+    },
     "client": {
       "name": "Trust Tech Co.,Ltd",
       "logo": "",
       "description": ""
-    },
-    "owner": {
-      "name": "SoftwareZay",
-      "logo": "https://raw.githubusercontent.com/aungthuoo/apis/main/projects/images/galaxy-software/logo.png",
-      "type": "Software House",
-      "work_type": "Employee . Fulltime"
     },
     "categories": [
       {
@@ -154,16 +158,17 @@
     "title": "Order Management Restaurant System",
     "sub_title": "Food Delivery Restaurant App",
     "slug": "food-order-platform",
+    "owner": {
+      "name": "SoftwareZay",
+      "logo": "https://raw.githubusercontent.com/aungthuoo/apis/main/projects/images/softarezay/logo.png",
+      "type": "Software House",
+      "work_type": "Self-employee . Fulltime",
+      "link": "https://softwarezay.com"
+    },
     "client": {
       "name": "Trust Tech Co.,Ltd",
       "logo": "",
       "description": ""
-    },
-    "owner": {
-      "name": "SoftwareZay",
-      "logo": "https://raw.githubusercontent.com/aungthuoo/apis/main/projects/images/galaxy-software/logo.png",
-      "type": "Software House",
-      "work_type": "Employee . Fulltime"
     },
     "categories": [
       {
@@ -193,16 +198,17 @@
     "title": "Location Tracking System",
     "sub_title": "Food Delivery Biker App",
     "slug": "food-order-platform",
+    "owner": {
+      "name": "SoftwareZay",
+      "logo": "https://raw.githubusercontent.com/aungthuoo/apis/main/projects/images/softarezay/logo.png",
+      "type": "Software House",
+      "work_type": "Self-employee . Fulltime",
+      "link": "https://softwarezay.com"
+    },
     "client": {
       "name": "Trust Tech Co.,Ltd",
       "logo": "",
       "description": ""
-    },
-    "owner": {
-      "name": "SoftwareZay",
-      "logo": "https://raw.githubusercontent.com/aungthuoo/apis/main/projects/images/galaxy-software/logo.png",
-      "type": "Software House",
-      "work_type": "Employee . Fulltime"
     },
     "categories": [
       {
@@ -232,16 +238,17 @@
     "title": "Online Hotel Booking System",
     "sub_title": "Min nandar hotel booking system",
     "slug": "online-booking-system",
+    "owner": {
+      "name": "SoftwareZay",
+      "logo": "https://raw.githubusercontent.com/aungthuoo/apis/main/projects/images/softarezay/logo.png",
+      "type": "Software House",
+      "work_type": "Self-employee . Fulltime",
+      "link": "https://softwarezay.com"
+    },
     "client": {
       "name": "Trust Tech Co.,Ltd",
       "logo": "",
       "description": ""
-    },
-    "owner": {
-      "name": "SoftwareZay",
-      "logo": "https://raw.githubusercontent.com/aungthuoo/apis/main/projects/images/galaxy-software/logo.png",
-      "type": "Software House",
-      "work_type": "Employee . Fulltime"
     },
     "categories": [
       {
@@ -267,16 +274,17 @@
     "title": "Home/ apartment rent and sale system",
     "sub_title": "Find Property Real Estate Co.,Ltd.",
     "slug": "online-booking-system",
+    "owner": {
+      "name": "SoftwareZay",
+      "logo": "https://raw.githubusercontent.com/aungthuoo/apis/main/projects/images/softarezay/logo.png",
+      "type": "Software House",
+      "work_type": "Self-employee . Fulltime",
+      "link": "https://softwarezay.com"
+    },
     "client": {
       "name": "Trust Tech Co.,Ltd",
       "logo": "",
       "description": ""
-    },
-    "owner": {
-      "name": "SoftwareZay",
-      "logo": "https://raw.githubusercontent.com/aungthuoo/apis/main/projects/images/galaxy-software/logo.png",
-      "type": "Software House",
-      "work_type": "Employee . Fulltime"
     },
     "categories": [
       {
@@ -302,16 +310,17 @@
     "title": "Directory",
     "sub_title": "Yangon Directory",
     "slug": "yangon-directory",
+    "owner": {
+      "name": "MMRD Co.,Ltd.",
+      "logo": "https://raw.githubusercontent.com/aungthuoo/apis/main/projects/images/mmrd/logo.png",
+      "type": "Software House",
+      "work_type": "Employee . Fulltime",
+      "link": "https://yangondirectory.com"
+    },
     "client": {
-      "name": "Trust Tech Co.,Ltd",
+      "name": "MMRD Co.,Ltd.",
       "logo": "",
       "description": ""
-    },
-    "owner": {
-      "name": "SoftwareZay",
-      "logo": "https://raw.githubusercontent.com/aungthuoo/apis/main/projects/images/galaxy-software/logo.png",
-      "type": "Software House",
-      "work_type": "Employee . Fulltime"
     },
     "categories": [
       {
@@ -337,16 +346,17 @@
     "title": "Directory",
     "sub_title": "Manadalay Directory",
     "slug": "mandalay-directory",
+    "owner": {
+      "name": "MMRD Co.,Ltd.",
+      "logo": "https://raw.githubusercontent.com/aungthuoo/apis/main/projects/images/mmrd/logo.png",
+      "type": "Software House",
+      "work_type": "Employee . Fulltime",
+      "link": "https://mandalaydirectory.com"
+    },
     "client": {
       "name": "Trust Tech Co.,Ltd",
       "logo": "",
       "description": ""
-    },
-    "owner": {
-      "name": "SoftwareZay",
-      "logo": "https://raw.githubusercontent.com/aungthuoo/apis/main/projects/images/galaxy-software/logo.png",
-      "type": "Software House",
-      "work_type": "Employee . Fulltime"
     },
     "categories": [
       {
@@ -372,16 +382,17 @@
     "title": "Waiter App",
     "sub_title": "YKKO Restaurant Order System",
     "slug": "mandalay-directory",
+    "owner": {
+      "name": "MIT",
+      "logo": "https://raw.githubusercontent.com/aungthuoo/apis/main/projects/images/mit/logo.png",
+      "type": "Software House",
+      "work_type": "Employee . Fulltime",
+      "link": "https://softwarezay.com"
+    },
     "client": {
       "name": "Trust Tech Co.,Ltd",
       "logo": "",
       "description": ""
-    },
-    "owner": {
-      "name": "SoftwareZay",
-      "logo": "https://raw.githubusercontent.com/aungthuoo/apis/main/projects/images/galaxy-software/logo.png",
-      "type": "Software House",
-      "work_type": "Employee . Fulltime"
     },
     "categories": [
       {
@@ -407,16 +418,17 @@
     "title": "ERP Accounting System",
     "sub_title": "ERP V5",
     "slug": "erp-v5",
+    "owner": {
+      "name": "Myanmar Infirmation Technology Co.,Ltd.",
+      "logo": "https://raw.githubusercontent.com/aungthuoo/apis/main/projects/images/mit/logo.png",
+      "type": "Software House",
+      "work_type": "Employee . Fulltime",
+      "link": ""
+    },
     "client": {
       "name": "Trust Tech Co.,Ltd",
       "logo": "",
       "description": ""
-    },
-    "owner": {
-      "name": "Myanmar Infirmation Technology Co.,Ltd.",
-      "logo": "https://raw.githubusercontent.com/aungthuoo/apis/main/projects/images/galaxy-software/logo.png",
-      "type": "Software House",
-      "work_type": "Employee . Fulltime"
     },
     "categories": [
       {
@@ -442,16 +454,17 @@
     "title": "Accounting System",
     "sub_title": "iLedger",
     "slug": "iledger",
-    "client": {
-      "name": "Trust Tech Co.,Ltd",
-      "logo": "",
-      "description": ""
-    },
     "owner": {
       "name": "iNTEGER System Co.,Ltd.",
       "logo": "https://raw.githubusercontent.com/aungthuoo/apis/main/projects/images/galaxy-software/logo.png",
       "type": "Software House",
-      "work_type": "Employee . Fulltime"
+      "work_type": "Employee . Fulltime",
+      "link": ""
+    },
+    "client": {
+      "name": "Trust Tech Co.,Ltd",
+      "logo": "",
+      "description": ""
     },
     "categories": [
       {
@@ -477,16 +490,17 @@
     "title": "Inventory Control System",
     "sub_title": "iStock",
     "slug": "istock",
-    "client": {
-      "name": "Trust Tech Co.,Ltd",
-      "logo": "",
-      "description": ""
-    },
     "owner": {
       "name": "Galaxy Software",
       "logo": "https://raw.githubusercontent.com/aungthuoo/apis/main/projects/images/galaxy-software/logo.png",
       "type": "Software House",
-      "work_type": "Employee . Fulltime"
+      "work_type": "Employee . Fulltime",
+      "link": ""
+    },
+    "client": {
+      "name": "Trust Tech Co.,Ltd",
+      "logo": "",
+      "description": ""
     },
     "categories": [
       {
