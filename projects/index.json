@@ -32,10 +32,12 @@
     "link": "https://myanmartennisfed.com",
     "description": "",
     "images": [
-      "https://raw.githubusercontent.com/aungthuoo/apis/main/projects/images/mtf/logo.png",
-      "https://raw.githubusercontent.com/aungthuoo/apis/main/projects/images/mtf/tennis-act.jpg",
-      "https://raw.githubusercontent.com/aungthuoo/apis/main/projects/images/mtf/tennis.jpg",
-      "https://raw.githubusercontent.com/aungthuoo/apis/main/projects/images/mtf/tennis-act-002.png"
+      "https://raw.githubusercontent.com/aungthuoo/apis/main/projects/images/mtf/img-001.jpg",
+      "https://raw.githubusercontent.com/aungthuoo/apis/main/projects/images/mtf/img-002.png",
+      "https://raw.githubusercontent.com/aungthuoo/apis/main/projects/images/mtf/img-003.png",
+      "https://raw.githubusercontent.com/aungthuoo/apis/main/projects/images/mtf/img-004.png",
+      "https://raw.githubusercontent.com/aungthuoo/apis/main/projects/images/mtf/img-005.png",
+      "https://raw.githubusercontent.com/aungthuoo/apis/main/projects/images/mtf/img-006.png"
     ]
   },
   {
@@ -419,7 +421,7 @@
     "sub_title": "ERP V5",
     "slug": "erp-v5",
     "owner": {
-      "name": "Myanmar Infirmation Technology Co.,Ltd.",
+      "name": "MIT",
       "logo": "https://raw.githubusercontent.com/aungthuoo/apis/main/projects/images/mit/logo.png",
       "type": "Software House",
       "work_type": "Employee . Fulltime",
