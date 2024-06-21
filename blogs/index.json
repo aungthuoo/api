@@ -1,6 +1,5 @@
 [
   {
-    "site": "",
     "author": {
       "name": "Aung Thu Oo",
       "image": "https://raw.githubusercontent.com/aungthuoo/apis/main/personal/ato/ato.jpeg",
@@ -17,14 +16,14 @@
     ],
     "title": "JavaScript Promise",
     "date": "21 Jun, 2024",
-    "path": "/topics/2024/0621/javascript-promise",
+    "site": "https://raw.githubusercontent.com/aungthuoo/",
+    "path": "apis/main/blogs/topics/2024/0621/javascript-promise/",
     "description": "A promise is an object that will produce a single value sometime in the future. If the promise is successful, it will produce a resolved value, but if something goes wrong then it will produce a reason why the promise failed.",
     "images": [
-      "https://raw.githubusercontent.com/aungthuoo/apis/main/blogs/topics/2024/0621/images/js-promise.png"
+      "images/js-promise.png"
     ]
   },
   {
-    "site": "",
     "author": {
       "name": "Aung Thu Oo",
       "image": "https://raw.githubusercontent.com/aungthuoo/apis/main/personal/ato/ato.jpeg",
@@ -41,10 +40,11 @@
     ],
     "title": "JavaScript Callback",
     "date": "21 Jun, 2024",
-    "path": "/topics/2024/0621/javascript-callback",
+    "site": "https://raw.githubusercontent.com/aungthuoo/",
+    "path": "apis/main/blogs/topics/2024/0621/javascript-callback/",
     "description": "",
     "images": [
-      "https://raw.githubusercontent.com/aungthuoo/apis/main/blogs/topics/2024/0621/images/js-callback.png"
+      "images/js-callback.png"
     ]
   }
 ]
