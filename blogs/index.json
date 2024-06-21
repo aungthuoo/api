@@ -1,7 +1,6 @@
 [
   {
-    "title": "JavaScript Promise",
-    "date": "21 Jun, 2024",
+    "site": "",
     "author": {
       "name": "Aung Thu Oo",
       "image": "https://raw.githubusercontent.com/aungthuoo/apis/main/personal/ato/ato.jpeg",
@@ -16,16 +15,16 @@
         "name": "JavaScript"
       }
     ],
-    "site": "",
-    "path": "/topics/javascript-promise",
+    "title": "JavaScript Promise",
+    "date": "21 Jun, 2024",
+    "path": "/topics/2024/0621/javascript-promise",
     "description": "A promise is an object that will produce a single value sometime in the future. If the promise is successful, it will produce a resolved value, but if something goes wrong then it will produce a reason why the promise failed.",
     "images": [
-      "https://raw.githubusercontent.com/aungthuoo/apis/main/blogs/images/2024/0621/img-001.png"
+      "https://raw.githubusercontent.com/aungthuoo/apis/main/blogs/topics/2024/0621/images/js-promise.png"
     ]
   },
   {
-    "title": "Article 002",
-    "date": "9 Jun, 2024",
+    "site": "",
     "author": {
       "name": "Aung Thu Oo",
       "image": "https://raw.githubusercontent.com/aungthuoo/apis/main/personal/ato/ato.jpeg",
@@ -34,20 +33,18 @@
     },
     "categories": [
       {
-        "name": "Node.js"
+        "name": "React.js"
       },
       {
-        "name": "Playground"
-      },
-      {
-        "name": "KTV"
+        "name": "JavaScript"
       }
     ],
-    "site": "https://myanmartennisfed.com",
-    "path": "/topics/javascript-promise",
+    "title": "JavaScript Callback",
+    "date": "21 Jun, 2024",
+    "path": "/topics/2024/0621/javascript-callback",
     "description": "",
     "images": [
-      "https://raw.githubusercontent.com/aungthuoo/apis/main/projects/images/mtf/tennis.jpg"
+      "https://raw.githubusercontent.com/aungthuoo/apis/main/blogs/topics/2024/0621/images/js-callback.png"
     ]
   }
 ]
