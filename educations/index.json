@@ -16,13 +16,13 @@
     "short_description": "",
     "description": "",
     "images": [
-      "https://raw.githubusercontent.com/aungthuoo/apis/main/experiences/images/hana.png"
+      "https://raw.githubusercontent.com/aungthuoo/apis/main/educations/images/hana.png"
     ]
   },
   {
     "name": "Yangon Institute of Economics",
     "degree": "B.Com",
-    "logo": "https://yueco.edu.mm/",
+    "logo": "https://raw.githubusercontent.com/aungthuoo/apis/main/educations/images/yieco.png",
     "slug": "yangon-university",
     "year": {
       "from": "2002",
@@ -32,11 +32,11 @@
     "location": "Yangon, Myanmar",
     "skills": [],
     "projects": [],
-    "link": "https://hanamyanmar.com/",
+    "link": "https://yueco.edu.mm/",
     "short_description": "",
     "description": "",
     "images": [
-      "https://raw.githubusercontent.com/aungthuoo/apis/main/experiences/images/yieco.png"
+      "https://raw.githubusercontent.com/aungthuoo/apis/main/educations/images/yieco.png"
     ]
   }
 ]
