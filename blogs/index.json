@@ -46,5 +46,29 @@
       "images/img-001.png"
     ],
     "description": "A JavaScript callback is a function which is to be executed after another function has finished execution."
+  },
+  {
+    "author": {
+      "name": "Aung Thu Oo",
+      "image": "https://raw.githubusercontent.com/aungthuoo/apis/main/personal/ato/ato.jpeg",
+      "position": "Senior developer",
+      "link": "https://linkedin.com/in/aungthuoo"
+    },
+    "site": "https://raw.githubusercontent.com/aungthuoo/apis/main/blogs/",
+    "categories": [
+      {
+        "name": "React.js"
+      },
+      {
+        "name": "JavaScript"
+      }
+    ],
+    "date": "21 Jun, 2024",
+    "title": "JavaScript Imports / Exports ( Named exports, Function exports)",
+    "slug": "javascript-fun-export-import",
+    "images": [
+      "images/img-001.png"
+    ],
+    "description": "ES6 modules are used to access variables or functions in a module explicitly exported by the modules it imports."
   }
 ]
