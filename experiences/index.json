@@ -261,5 +261,57 @@
     "images": [
       "https://raw.githubusercontent.com/aungthuoo/apis/main/experiences/images/mallplus.png"
     ]
+  },
+  {
+    "company": "LAMM Myanmar",
+    "position": "Full Stack Developer",
+    "logo": "https://raw.githubusercontent.com/aungthuoo/apis/main/experiences/images/lamm.png",
+    "slug": "full-stack-developer",
+    "year": {
+      "from": "Sept 2017",
+      "to": "Jan 2019",
+      "duration": "1 yr 5 mos"
+    },
+    "location": "Yangon, Myanmar. Remote",
+    "skills": [
+      {
+        "name": "Vue.js"
+      },
+      {
+        "name": "Node.js"
+      },
+      {
+        "name": "Laravel"
+      },
+      {
+        "name": "Docker"
+      },
+      {
+        "name": "AWS"
+      }
+    ],
+    "projects": [
+      {
+        "name": "React.js"
+      },
+      {
+        "name": "Node.js"
+      },
+      {
+        "name": "Laravel"
+      },
+      {
+        "name": "Docker"
+      },
+      {
+        "name": "AWS"
+      }
+    ],
+    "link": "https://www.onenex.co/",
+    "short_description": "",
+    "description": "<span aria-hidden='true'><!---->🔶 Responsibilities:<!----><br><!---->🔷 Gym Management App:<!----><br><!---->🔹Led the development of a comprehensive gym management app, encompassing features such as member registration, class scheduling, and payment processing.<!----><br><!---->🔹Conducted usability testing and gathered feedback from gym owners and members to iterate on features and improve overall usability.<!----><br><br><!---->🔷 Real Estate Website:<!----><br><!---->🔹Implemented advanced search functionalities, allowing users to filter properties based on criteria such as location, price range, and amenities.<!----><br><!---->🔹Conducted performance optimization and SEO enhancements to improve search engine visibility and website responsiveness.<!----><br><!---->🔹Collaborated with UI/UX designers to ensure a visually appealing and intuitive user interface.<!----><br><br><!---->🔷 Real Estate Customer App (Android, iOS):<!----><br><!---->🔹Architected and developed a cross-platform real estate customer app for Android and iOS devices, providing users with on-the-go access to property listings and agent contacts.<!----><br><!---->🔹Implemented features such as property search, saved searches, and push notifications for new listings matching user preferences.<!----><br><!---->🔹Integrated with geolocation services to provide location-based property recommendations and neighborhood information.<!----><br><!---->🔹Ensured app compliance with platform-specific guidelines and best practices for performance and user experience.<!----><br><br><!---->🔷 Loyalty Website:<!----><br><!---->🔹Implemented user registration, point accumulation, and redemption functionalities to track and manage loyalty program activities.<!----><br><!---->🔹Integrated with CRM systems and payment gateways to facilitate seamless points accrual and redemption processes.<!----><br><!---->🔹Designed personalized user dashboards to display points balance, transaction history, and available rewards.<!----><br><br><!---->🔷 Tech Stack<span class='white-space-pre'> </span><br><!---->🔹Angular<span class='white-space-pre'> </span><br><!---->🔹Android And IOS with (NativeScript + Vue.js/ Flutter)<!----><br><!---->🔹Laravel<!----><br><!---->🔹Vue.js<span class='white-space-pre'> </span><br><!---->🔹React.js<!----></span>",
+    "images": [
+      "https://raw.githubusercontent.com/aungthuoo/apis/main/experiences/images/lamm.png"
+    ]
   }
 ]
