@@ -80,6 +80,41 @@
     ]
   },
   {
+    "title": "Multi-country Payroll Software",
+    "sub_title": "Better HR . Yoma Group",
+    "slug": "better-hr",
+    "owner": {
+      "name": "Yoma Group",
+      "logo": "https://raw.githubusercontent.com/aungthuoo/apis/main/projects/images/onenex/yoma-connect.png",
+      "type": "Software House",
+      "work_type": "Employee . Fulltime",
+      "link": "https://onenex.co"
+    },
+    "client": {
+      "name": "YOMA Group",
+      "logo": "https://raw.githubusercontent.com/aungthuoo/apis/main/projects/images/onenex/yoma-stargic.png",
+      "description": ""
+    },
+    "categories": [
+      {
+        "name": "Android"
+      },
+      {
+        "name": "iOS"
+      },
+      {
+        "name": "Web App"
+      }
+    ],
+    "link": "#",
+    "description": "User friendly multi-country payroll software in APAC. Manage, automate payroll calculation in local compliance across multiple countries from a single system. Cambodia, Vietnam, Myanmar, Thailand, Singapore.",
+    "images": [
+      "https://raw.githubusercontent.com/aungthuoo/apis/main/projects/images/onenex/img-001.png",
+      "https://raw.githubusercontent.com/aungthuoo/apis/main/projects/images/onenex/img-002.png",
+      "https://raw.githubusercontent.com/aungthuoo/apis/main/projects/images/onenex/img-003.png"
+    ]
+  },
+  {
     "title": "Food Order Platform",
     "sub_title": "Food Delivery Customer App",
     "slug": "food-order-platform",
