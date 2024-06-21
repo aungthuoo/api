@@ -19,7 +19,7 @@
     "title": "JavaScript Promise",
     "slug": "javascript-promise",
     "images": [
-      "images/js-promise.png"
+      "images/img-001.png"
     ],
     "description": "A promise is an object that will produce a single value sometime in the future. If the promise is successful, it will produce a resolved value, but if something goes wrong then it will produce a reason why the promise failed."
   },
@@ -43,8 +43,8 @@
     "title": "JavaScript Callback",
     "slug": "javascript-callback",
     "images": [
-      "images/js-callback.png"
+      "images/img-001.png"
     ],
-    "description": "A promise is an object that will produce a single value sometime in the future. If the promise is successful, it will produce a resolved value, but if something goes wrong then it will produce a reason why the promise failed."
+    "description": "A JavaScript callback is a function which is to be executed after another function has finished execution."
   }
 ]
