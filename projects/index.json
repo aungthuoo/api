@@ -85,14 +85,14 @@
     "slug": "better-hr",
     "owner": {
       "name": "Yoma Group",
-      "logo": "https://raw.githubusercontent.com/aungthuoo/apis/main/projects/images/onenex/yoma-connect.png",
+      "logo": "https://raw.githubusercontent.com/aungthuoo/apis/main/projects/images/onenex/yoma-connect/logo.png",
       "type": "Software House",
       "work_type": "Employee . Fulltime",
       "link": "https://onenex.co"
     },
     "client": {
       "name": "YOMA Group",
-      "logo": "https://raw.githubusercontent.com/aungthuoo/apis/main/projects/images/onenex/yoma-stargic.png",
+      "logo": "https://raw.githubusercontent.com/aungthuoo/apis/main/projects/images/onenex/yoma-connect/yoma-stargic.png",
       "description": ""
     },
     "categories": [
