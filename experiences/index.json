@@ -278,33 +278,27 @@
         "name": "Vue.js"
       },
       {
-        "name": "Node.js"
+        "name": "Angular.js"
       },
       {
         "name": "Laravel"
       },
       {
-        "name": "Docker"
-      },
-      {
-        "name": "AWS"
+        "name": "DigitalOcean"
       }
     ],
     "projects": [
       {
-        "name": "React.js"
+        "name": "Vue.js"
       },
       {
-        "name": "Node.js"
+        "name": "Angular.js"
       },
       {
         "name": "Laravel"
       },
       {
-        "name": "Docker"
-      },
-      {
-        "name": "AWS"
+        "name": "DigitalOcean"
       }
     ],
     "link": "https://www.onenex.co/",
@@ -312,6 +306,52 @@
     "description": "<span aria-hidden='true'><!---->🔶 Responsibilities:<!----><br><!---->🔷 Gym Management App:<!----><br><!---->🔹Led the development of a comprehensive gym management app, encompassing features such as member registration, class scheduling, and payment processing.<!----><br><!---->🔹Conducted usability testing and gathered feedback from gym owners and members to iterate on features and improve overall usability.<!----><br><br><!---->🔷 Real Estate Website:<!----><br><!---->🔹Implemented advanced search functionalities, allowing users to filter properties based on criteria such as location, price range, and amenities.<!----><br><!---->🔹Conducted performance optimization and SEO enhancements to improve search engine visibility and website responsiveness.<!----><br><!---->🔹Collaborated with UI/UX designers to ensure a visually appealing and intuitive user interface.<!----><br><br><!---->🔷 Real Estate Customer App (Android, iOS):<!----><br><!---->🔹Architected and developed a cross-platform real estate customer app for Android and iOS devices, providing users with on-the-go access to property listings and agent contacts.<!----><br><!---->🔹Implemented features such as property search, saved searches, and push notifications for new listings matching user preferences.<!----><br><!---->🔹Integrated with geolocation services to provide location-based property recommendations and neighborhood information.<!----><br><!---->🔹Ensured app compliance with platform-specific guidelines and best practices for performance and user experience.<!----><br><br><!---->🔷 Loyalty Website:<!----><br><!---->🔹Implemented user registration, point accumulation, and redemption functionalities to track and manage loyalty program activities.<!----><br><!---->🔹Integrated with CRM systems and payment gateways to facilitate seamless points accrual and redemption processes.<!----><br><!---->🔹Designed personalized user dashboards to display points balance, transaction history, and available rewards.<!----><br><br><!---->🔷 Tech Stack<span class='white-space-pre'> </span><br><!---->🔹Angular<span class='white-space-pre'> </span><br><!---->🔹Android And IOS with (NativeScript + Vue.js/ Flutter)<!----><br><!---->🔹Laravel<!----><br><!---->🔹Vue.js<span class='white-space-pre'> </span><br><!---->🔹React.js<!----></span>",
     "images": [
       "https://raw.githubusercontent.com/aungthuoo/apis/main/experiences/images/lamm.png"
+    ]
+  },
+  {
+    "company": "Myanmar Marketing Research & Development Ltd. (MMRD)",
+    "position": "Senior Web Developer",
+    "logo": "https://raw.githubusercontent.com/aungthuoo/apis/main/experiences/images/mmrd.png",
+    "slug": "full-stack-developer",
+    "year": {
+      "from": "Dec 2015",
+      "to": "Oct 2017",
+      "duration": "1 yr 11 mos"
+    },
+    "location": "Yangon, Myanmar. On-site",
+    "skills": [
+      {
+        "name": "jQuery"
+      },
+      {
+        "name": "Angular.js"
+      },
+      {
+        "name": "Laravel"
+      },
+      {
+        "name": "DigitalOcean"
+      }
+    ],
+    "projects": [
+      {
+        "name": "jQuery"
+      },
+      {
+        "name": "Angular.js"
+      },
+      {
+        "name": "Laravel"
+      },
+      {
+        "name": "DigitalOcean"
+      }
+    ],
+    "link": "https://www.mmrdrs.com/",
+    "short_description": "",
+    "description": "<span aria-hidden='true'><!---->🔶 Responsibilities:<!----><br><br><!---->🔹Building a directory website with big data capabilities involves integrating features that leverage large volumes of data efficiently to provide valuable insights and enhance user experience.<!----><br><!---->🔹Implement a powerful search engine capable of handling complex queries across a vast dataset.<!----><br><!---->🔹Allow users to search by various criteria such as location, category, keyword, ratings, and more.<!----><br><!---->🔹Utilize autocomplete and suggest functionalities to enhance search efficiency.<!----><br><br><!---->🔹Incorporate geospatial search capabilities to allow users to search for listings based on proximity to a specific location or geographic area.<!----><br><br><!---->🔹Allow users to contribute content by submitting listings, reviews, ratings, and photos.<!----><br><!---->🔹Implement caching mechanisms and load balancing techniques to optimize performance and ensure responsiveness.<!----><br><!---->🔹Monitor system performance and scalability metrics proactively and implement optimizations as needed.<!----><br><br><!---->🔹Integrate with external data sources such as APIs, databases, and web scraping tools to augment directory listings with additional data and enrich search results.<!----><br><br><!---->🔷 Projects<!----><br><!---->🔹 Directory Website Management (Big data)<!----><br><!---->🔹 Advertising Management Software<!----><br><!---->🔹 https://www.yangondirectory.com/<!----><br><!---->🔹 https://www.mandalaydirectory.com/<!----><br><!---->🔹 https://www.mandalaydirectory.com/<!----><br><!---->🔹 https://www.automobiledirectory.com.mm/<!----><br><!---->🔹 https://www.buildersguide.com.mm/<!----><br><!---->🔹 https://www.edge.com.mm/<!----><br><!---->🔹 https://www.foodindustrydirectory.com.mm/<!----><br><!---->🔹 https://www.sayar.com.mm/<!----><br><br><!---->🔷 Tech Stack<!----><br><!---->🔹PHP (Joomla, Laravel )<!----><br><!---->🔹MySql<!----><br><!---->🔹MSSql<!----><br><!---->🔹C#<!----><br><!---->🔹jQuery<!----></span>",
+    "images": [
+      "https://raw.githubusercontent.com/aungthuoo/apis/main/experiences/images/yangondirectory.png"
     ]
   }
 ]
