@@ -81,7 +81,7 @@
   },
   {
     "title": "Multi-country Payroll Software",
-    "sub_title": "Better HR . Yoma Group",
+    "sub_title": "Better HR . Yoma Connect",
     "slug": "better-hr",
     "owner": {
       "name": "Yoma Group",
@@ -109,9 +109,46 @@
     "link": "#",
     "description": "User friendly multi-country payroll software in APAC. Manage, automate payroll calculation in local compliance across multiple countries from a single system. Cambodia, Vietnam, Myanmar, Thailand, Singapore.",
     "images": [
-      "https://raw.githubusercontent.com/aungthuoo/apis/main/projects/images/onenex/img-001.png",
-      "https://raw.githubusercontent.com/aungthuoo/apis/main/projects/images/onenex/img-002.png",
-      "https://raw.githubusercontent.com/aungthuoo/apis/main/projects/images/onenex/img-003.png"
+      "https://raw.githubusercontent.com/aungthuoo/apis/main/projects/images/onenex/yoma-connect/img-001.png",
+      "https://raw.githubusercontent.com/aungthuoo/apis/main/projects/images/onenex/yoma-connect/img-002.png",
+      "https://raw.githubusercontent.com/aungthuoo/apis/main/projects/images/onenex/yoma-connect/img-003.png"
+    ]
+  },
+  {
+    "title": "Digital Loyalty Program",
+    "sub_title": "Pocket",
+    "slug": "better-hr",
+    "owner": {
+      "name": "Yoma Group",
+      "logo": "https://raw.githubusercontent.com/aungthuoo/apis/main/projects/images/pocket/logo.png",
+      "type": "Software House",
+      "work_type": "Employee . Fulltime",
+      "link": "https://onenex.co"
+    },
+    "client": {
+      "name": "YOMA Group",
+      "logo": "https://raw.githubusercontent.com/aungthuoo/apis/main/projects/images/onenex/yoma-stargic.png",
+      "description": ""
+    },
+    "categories": [
+      {
+        "name": "Android"
+      },
+      {
+        "name": "iOS"
+      },
+      {
+        "name": "Web App"
+      }
+    ],
+    "link": "#",
+    "description": "Pocket MM is a free Android app developed by DIGITAL LOYALTY SERVICE MYANMAR LIMITED. It is a digital lifestyle platform that offers a loyalty program with a range of special incentives such as rewards, discounts, loyalty points, deals, instant gratifications, campaigns, perks, and privileges to all consumer-facing businesses.",
+    "images": [
+      "https://raw.githubusercontent.com/aungthuoo/apis/main/projects/images/onenex/pocket/img-001.png",
+      "https://raw.githubusercontent.com/aungthuoo/apis/main/projects/images/onenex/pocket/img-002.png",
+      "https://raw.githubusercontent.com/aungthuoo/apis/main/projects/images/onenex/pocket/img-003.png",
+      "https://raw.githubusercontent.com/aungthuoo/apis/main/projects/images/onenex/pocket/img-004.png",
+      "https://raw.githubusercontent.com/aungthuoo/apis/main/projects/images/onenex/pocket/img-005.png"
     ]
   },
   {
