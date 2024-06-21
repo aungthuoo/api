@@ -359,7 +359,7 @@
     ]
   },
   {
-    "title": "Waiter App",
+    "title": "Restaurant Waiter App",
     "sub_title": "YKKO Restaurant Order System",
     "slug": "mandalay-directory",
     "owner": {
@@ -370,7 +370,7 @@
       "link": "https://softwarezay.com"
     },
     "client": {
-      "name": "Trust Tech Co.,Ltd",
+      "name": "YKKO Group Co.,Ltd",
       "logo": "",
       "description": ""
     },
@@ -401,7 +401,7 @@
       "link": ""
     },
     "client": {
-      "name": "Trust Tech Co.,Ltd",
+      "name": "City Mart",
       "logo": "",
       "description": ""
     },
@@ -432,19 +432,19 @@
       "link": ""
     },
     "client": {
-      "name": "Trust Tech Co.,Ltd",
+      "name": "iNTEGRA Co.,Ltd",
       "logo": "",
       "description": ""
     },
     "categories": [
       {
-        "name": "Hotel"
+        "name": "Accounting"
       },
       {
-        "name": "Playground"
+        "name": "Desktop App"
       },
       {
-        "name": "KTV"
+        "name": "Web App"
       }
     ],
     "link": "https://myanmartennisfed.com",
