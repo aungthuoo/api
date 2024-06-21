@@ -18,7 +18,7 @@
     ],
     "site": "",
     "path": "/topics/javascript-promise",
-    "description": "",
+    "description": "A promise is an object that will produce a single value sometime in the future. If the promise is successful, it will produce a resolved value, but if something goes wrong then it will produce a reason why the promise failed.",
     "images": [
       "https://raw.githubusercontent.com/aungthuoo/apis/main/blogs/images/2024/0621/img-001.png"
     ]
