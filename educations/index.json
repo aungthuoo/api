@@ -1,0 +1,42 @@
+[
+  {
+    "name": "University of Yangon",
+    "degree": "Post Grade Computer (PGDCA), Computer Science",
+    "logo": "https://raw.githubusercontent.com/aungthuoo/apis/main/educations/images/ygn-university.png",
+    "slug": "yangon-university",
+    "year": {
+      "from": "Jan-2012",
+      "to": "Dec-2014",
+      "duration": ""
+    },
+    "location": "Yangon, Myanmar",
+    "skills": [],
+    "projects": [],
+    "link": "https://www.uy.edu.mm/",
+    "short_description": "",
+    "description": "",
+    "images": [
+      "https://raw.githubusercontent.com/aungthuoo/apis/main/experiences/images/hana.png"
+    ]
+  },
+  {
+    "name": "Yangon Institute of Economics",
+    "degree": "B.Com",
+    "logo": "https://yueco.edu.mm/",
+    "slug": "yangon-university",
+    "year": {
+      "from": "2002",
+      "to": "2005",
+      "duration": ""
+    },
+    "location": "Yangon, Myanmar",
+    "skills": [],
+    "projects": [],
+    "link": "https://hanamyanmar.com/",
+    "short_description": "",
+    "description": "",
+    "images": [
+      "https://raw.githubusercontent.com/aungthuoo/apis/main/experiences/images/yieco.png"
+    ]
+  }
+]
