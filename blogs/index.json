@@ -6,6 +6,7 @@
       "position": "Senior developer",
       "link": "https://linkedin.com/in/aungthuoo"
     },
+    "site": "https://raw.githubusercontent.com/aungthuoo/apis/main/blogs/",
     "categories": [
       {
         "name": "React.js"
@@ -14,14 +15,13 @@
         "name": "JavaScript"
       }
     ],
-    "title": "JavaScript Promise",
     "date": "21 Jun, 2024",
-    "site": "https://raw.githubusercontent.com/aungthuoo/",
-    "path": "apis/main/blogs/topics/2024/0621/javascript-promise/",
-    "description": "A promise is an object that will produce a single value sometime in the future. If the promise is successful, it will produce a resolved value, but if something goes wrong then it will produce a reason why the promise failed.",
+    "title": "JavaScript Promise",
+    "slug": "javascript-promise",
     "images": [
-      "images/js-promise.png"
-    ]
+      "images/js-callback.png"
+    ],
+    "description": "A promise is an object that will produce a single value sometime in the future. If the promise is successful, it will produce a resolved value, but if something goes wrong then it will produce a reason why the promise failed."
   },
   {
     "author": {
@@ -30,6 +30,7 @@
       "position": "Senior developer",
       "link": "https://linkedin.com/in/aungthuoo"
     },
+    "site": "https://raw.githubusercontent.com/aungthuoo/apis/main/blogs/",
     "categories": [
       {
         "name": "React.js"
@@ -38,13 +39,12 @@
         "name": "JavaScript"
       }
     ],
-    "title": "JavaScript Callback",
     "date": "21 Jun, 2024",
-    "site": "https://raw.githubusercontent.com/aungthuoo/",
-    "path": "apis/main/blogs/topics/2024/0621/javascript-callback/",
-    "description": "",
+    "title": "JavaScript Promise",
+    "slug": "javascript-promise",
     "images": [
       "images/js-callback.png"
-    ]
+    ],
+    "description": "A promise is an object that will produce a single value sometime in the future. If the promise is successful, it will produce a resolved value, but if something goes wrong then it will produce a reason why the promise failed."
   }
 ]
