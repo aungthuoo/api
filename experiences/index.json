@@ -353,5 +353,97 @@
     "images": [
       "https://raw.githubusercontent.com/aungthuoo/apis/main/experiences/images/yangondirectory.png"
     ]
+  },
+  {
+    "company": "Myanmar Information Technology Pte Ltd",
+    "position": "Team Lead, Senior Web Developer",
+    "logo": "https://raw.githubusercontent.com/aungthuoo/apis/main/experiences/images/mit.png",
+    "slug": "full-stack-developer",
+    "year": {
+      "from": "Dec 2011",
+      "to": "Oct 2015",
+      "duration": "3 yr 11 mos"
+    },
+    "location": "Yangon, Myanmar. Full-time",
+    "skills": [
+      {
+        "name": "Java"
+      },
+      {
+        "name": "J2EE"
+      },
+      {
+        "name": "C#"
+      },
+      {
+        "name": "JavaScript"
+      }
+    ],
+    "projects": [
+      {
+        "name": "Java"
+      },
+      {
+        "name": "J2EE"
+      },
+      {
+        "name": "C#"
+      },
+      {
+        "name": "JavaScript"
+      }
+    ],
+    "link": "https://www.mmrdrs.com/",
+    "short_description": "",
+    "description": "<span aria-hidden='true'><!---->🔶 Responsibilities:<!----><br><!---->🔷 ERP V5 Internal Accounting System:<!----><br><br><!---->🔹Spearheaded the development and implementation of the ERP V5 Internal Accounting System, encompassing modules such as Sales Ledger, Purchase Ledger, General Ledger, Warehouse System, and Final Report.<!----><br><!---->🔹Conducted thorough testing and quality assurance to ensure the reliability, accuracy, and security of the accounting system.<!----><br><!---->🔹Provided ongoing support and maintenance, including troubleshooting and enhancements, to optimize system performance and user experience.<!----><br><br><!---->🔷 YKKO Waiter App (Web App):<!----><br><br><!---->🔹Led the development of the YKKO Waiter App, a web-based application designed to streamline order management and enhance customer service in restaurant settings.<!----><br><!---->🔹Worked closely with YKKO restaurant staff to understand workflow requirements and design intuitive user interfaces for order entry, table management, and bill processing.<!----><br><!---->🔹Implemented real-time communication features to facilitate seamless coordination between waitstaff, kitchen staff, and cashiers, reducing order processing times and improving customer satisfaction.<!----><br><!---->🔹Integrated with existing POS systems and payment gateways to enable secure and efficient payment processing.<!----><br><!---->🔹Conducted usability testing and gathered feedback from end-users to iterate on app features and optimize user experience.<!----><br><br><!---->🔷 Banking Softwares:<!----><br><br><!---->🔹Conducted system integration and testing to ensure interoperability with third-party systems and external APIs.<!----><br><br><!---->🔷 Tech Stack<!----><br><br><!---->🔹J2EE<span class='white-space-pre'> </span><br><!---->🔹Java Spring boot<span class='white-space-pre'> </span><br><!---->🔹jQuery, JavaScript<!----><br><!---->🔹JAVA<!----><br><!---->🔹C#<!----><br><!---->🔹Crystal Report, Jasper Report<!----><br><!---->🔹Google GWT<!----><br><!---->🔹Subversion<!----></span>",
+    "images": [
+      "https://raw.githubusercontent.com/aungthuoo/apis/main/experiences/images/mit.png"
+    ]
+  },
+  {
+    "company": "Galaxy Software Co.,Ltd",
+    "position": "Programmer",
+    "logo": "https://raw.githubusercontent.com/aungthuoo/apis/main/experiences/images/galaxy.png",
+    "slug": "full-stack-developer",
+    "year": {
+      "from": "Dec 2011",
+      "to": "Oct 2015",
+      "duration": "3 yr 11 mos"
+    },
+    "location": "Yangon, Myanmar. Full-time",
+    "skills": [
+      {
+        "name": "C#"
+      },
+      {
+        "name": "Microsoft Access"
+      },
+      {
+        "name": "VB"
+      },
+      {
+        "name": "MS Sql"
+      }
+    ],
+    "projects": [
+      {
+        "name": "C#"
+      },
+      {
+        "name": "Microsoft Access"
+      },
+      {
+        "name": "VB"
+      },
+      {
+        "name": "MS Sql"
+      }
+    ],
+    "link": "https://www.mmrdrs.com/",
+    "short_description": "",
+    "description": "<span aria-hidden="true"><!---->🔶 Responsibilities:<!----><br><br><!---->🔷 iStock Inventory Control System:<!----><br><br><!---->🔹Designed and developed features for inventory tracking, stock replenishment, and warehouse management, leveraging technologies such as barcode scanning and RFID.<!----><br><!---->🔹Implemented real-time inventory monitoring and reporting functionalities to provide stakeholders with actionable insights into inventory levels and trends.<!----><br><!---->🔹Continuously monitored system performance and implemented optimizations to enhance scalability, reliability, and efficiency.<!----><br><br><!---->🔷 iLedger Accounting System:<!----><br><br><!---->🔹Designed and implemented modules for general ledger, accounts payable, accounts receivable, and financial reporting, ensuring accuracy and reliability of financial data.<!----><br><!---->🔹Conducted regular audits and reconciliations to verify the accuracy of financial transactions and balances recorded in the Accounting System.<!----><br><!---->🔹Provided training and support to finance staff on system usage, accounting principles, and best practices to optimize productivity and accuracy.<!----></span>",
+    "images": [
+      "https://raw.githubusercontent.com/aungthuoo/apis/main/experiences/images/galaxy.png"
+    ]
   }
 ]
