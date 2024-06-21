@@ -261,14 +261,14 @@
   },
   {
     "title": "Home/ apartment rent and sale system",
-    "sub_title": "Find Property Real Estate Co.,Ltd.",
+    "sub_title": "Find Prpoerty Real Estate Co.,Ltd.",
     "slug": "online-booking-system",
     "owner": {
-      "name": "SoftwareZay",
-      "logo": "https://raw.githubusercontent.com/aungthuoo/apis/main/projects/images/softwarezay/logo.png",
+      "name": "Find Property",
+      "logo": "https://raw.githubusercontent.com/aungthuoo/apis/main/projects/images/lamm/logo.png",
       "type": "Software House",
       "work_type": "Self-employee . Fulltime",
-      "link": "https://softwarezay.com"
+      "link": "https://findpropertymm.com"
     },
     "client": {
       "name": "Trust Tech Co.,Ltd",
@@ -287,8 +287,11 @@
       }
     ],
     "link": "#",
-    "description": "",
-    "images": []
+    "description": "A real estate website is an online platform designed to facilitate various aspects of real estate transactions, including buying, selling, renting, and managing properties. These websites serve as a hub for property listings, offering tools and information for buyers, sellers, renters, real estate agents, and property managers.",
+    "images": [
+      "https://raw.githubusercontent.com/aungthuoo/apis/main/projects/images/lamm/findproperty/img-001.png",
+      "https://raw.githubusercontent.com/aungthuoo/apis/main/projects/images/lamm/findproperty/img-001.png"
+    ]
   },
   {
     "title": "Directory",
