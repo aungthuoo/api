@@ -260,37 +260,6 @@
     ]
   },
   {
-    "title": "Online Hotel Booking System",
-    "sub_title": "Min nandar hotel booking system",
-    "slug": "online-booking-system",
-    "owner": {
-      "name": "SoftwareZay",
-      "logo": "https://raw.githubusercontent.com/aungthuoo/apis/main/projects/images/softwarezay/logo.png",
-      "type": "Software House",
-      "work_type": "Self-employee . Fulltime",
-      "link": "https://softwarezay.com"
-    },
-    "client": {
-      "name": "Trust Tech Co.,Ltd",
-      "logo": "",
-      "description": ""
-    },
-    "categories": [
-      {
-        "name": "Hotel"
-      },
-      {
-        "name": "Playground"
-      },
-      {
-        "name": "KTV"
-      }
-    ],
-    "link": "https://play.google.com/store/apps/details?id=com.mallplusmm.biker&hl=en",
-    "description": "",
-    "images": []
-  },
-  {
     "title": "Home/ apartment rent and sale system",
     "sub_title": "Find Property Real Estate Co.,Ltd.",
     "slug": "online-booking-system",
@@ -317,7 +286,7 @@
         "name": "KTV"
       }
     ],
-    "link": "https://myanmartennisfed.com",
+    "link": "#",
     "description": "",
     "images": []
   },
@@ -348,7 +317,7 @@
         "name": "Website"
       }
     ],
-    "link": "https://myanmartennisfed.com",
+    "link": "https://yangondirectory.com/",
     "description": "A Yangon Directory website is a type of website that organizes and lists information about various resources, businesses, or entities, typically categorized by topic, industry, or geographical location. Directory websites are designed to help users easily find and access the information they are looking for. ",
     "images": [
       "https://raw.githubusercontent.com/aungthuoo/apis/main/projects/images/mmrd/yangon-directory/img-001.png",
@@ -385,7 +354,7 @@
         "name": "KTV"
       }
     ],
-    "link": "https://myanmartennisfed.com",
+    "link": "#",
     "description": "",
     "images": []
   },
@@ -416,8 +385,8 @@
         "name": "KTV"
       }
     ],
-    "link": "https://myanmartennisfed.com",
-    "description": "",
+    "link": "#",
+    "description": "A restaurant POS (Point of Sale) app is a specialized software designed to streamline the operations of a restaurant, enhance customer service, and improve overall efficiency. Some key features commonly found in restaurant POS apps: Order Management, Menu Management, Kitchen Display System, Payment Processing and Reporting and Analytics.",
     "images": []
   },
   {
