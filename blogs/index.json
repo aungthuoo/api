@@ -1,7 +1,7 @@
 [
   {
-    "title": "Article 001",
-    "date": "9 Jun, 2024",
+    "title": "JavaScript Promise",
+    "date": "21 Jun, 2024",
     "author": {
       "name": "Aung Thu Oo",
       "image": "https://raw.githubusercontent.com/aungthuoo/apis/main/personal/ato/ato.jpeg",
@@ -13,17 +13,14 @@
         "name": "React.js"
       },
       {
-        "name": "Playground"
-      },
-      {
-        "name": "KTV"
+        "name": "JavaScript"
       }
     ],
-    "site": "https://myanmartennisfed.com",
+    "site": "",
     "path": "/topics/javascript-promise",
     "description": "",
     "images": [
-      "https://raw.githubusercontent.com/aungthuoo/apis/main/projects/images/mtf/tennis.jpg"
+      "https://raw.githubusercontent.com/aungthuoo/apis/main/blogs/images/2024/0621/img-001.png"
     ]
   },
   {
