@@ -9,6 +9,30 @@
     "site": "https://raw.githubusercontent.com/aungthuoo/apis/main/blogs/",
     "categories": [
       {
+        "name": "Node.js"
+      },
+      {
+        "name": "JavaScript"
+      }
+    ],
+    "date": "24 Jun, 2024",
+    "title": "Node.js Hello world",
+    "slug": "nodejs-hello-world",
+    "images": [
+      "images/img-001.png"
+    ],
+    "description": "I will create an HTTP server listening on port 1337, which sends Hello, World! to the browser. Note that, instead of using port 1337, you can use any port number of your choice which is currently not in use by any other service."
+  },
+  {
+    "author": {
+      "name": "Aung Thu Oo",
+      "image": "https://raw.githubusercontent.com/aungthuoo/apis/main/personal/ato/ato.jpeg",
+      "position": "Senior developer",
+      "link": "https://linkedin.com/in/aungthuoo"
+    },
+    "site": "https://raw.githubusercontent.com/aungthuoo/apis/main/blogs/",
+    "categories": [
+      {
         "name": "React.js"
       },
       {
