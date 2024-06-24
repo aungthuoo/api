@@ -16,6 +16,30 @@
       }
     ],
     "date": "24 Jun, 2024",
+    "title": "Node.js Modular express application",
+    "slug": "nodejs-modular-express-application",
+    "images": [
+      "images/img-001.png"
+    ],
+    "description": "To make express web application modular use router factories"
+  },
+  {
+    "author": {
+      "name": "Aung Thu Oo",
+      "image": "https://raw.githubusercontent.com/aungthuoo/apis/main/personal/ato/ato.jpeg",
+      "position": "Senior developer",
+      "link": "https://linkedin.com/in/aungthuoo"
+    },
+    "site": "https://raw.githubusercontent.com/aungthuoo/apis/main/blogs/",
+    "categories": [
+      {
+        "name": "Node.js"
+      },
+      {
+        "name": "JavaScript"
+      }
+    ],
+    "date": "24 Jun, 2024",
     "title": "Node.js Hello world",
     "slug": "nodejs-hello-world",
     "images": [
