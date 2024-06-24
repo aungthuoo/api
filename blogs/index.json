@@ -12,6 +12,30 @@
         "name": "Node.js"
       },
       {
+        "name": "Express.js"
+      }
+    ],
+    "date": "24 Jun, 2024",
+    "title": "Express.js application structured in a modular way",
+    "slug": "expressjs-application-structured-in-a-modular-way",
+    "images": [
+      "images/img-001.png"
+    ],
+    "description": "Here’s an example of an Express.js application structured in a modular way, demonstrating the advantages of using middleware factories with services."
+  },
+  {
+    "author": {
+      "name": "Aung Thu Oo",
+      "image": "https://raw.githubusercontent.com/aungthuoo/apis/main/personal/ato/ato.jpeg",
+      "position": "Senior developer",
+      "link": "https://linkedin.com/in/aungthuoo"
+    },
+    "site": "https://raw.githubusercontent.com/aungthuoo/apis/main/blogs/",
+    "categories": [
+      {
+        "name": "Node.js"
+      },
+      {
         "name": "JavaScript"
       }
     ],
