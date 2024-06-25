@@ -15,6 +15,30 @@
         "name": "Express.js"
       }
     ],
+    "date": "25 Jun, 2024",
+    "title": "Node.js - Taking advantage of clusters",
+    "slug": "nodejs-taking-advantage-of-clusters",
+    "images": [
+      "images/img-001.png"
+    ],
+    "description": "Node.js applications run on a single thread by default, which means they can only utilize one CPU core. To take advantage of multiple CPU cores, you can use the cluster module. The cluster module allows you to create child processes (workers) that run simultaneously and can share the same server port."
+  },
+  {
+    "author": {
+      "name": "Aung Thu Oo",
+      "image": "https://raw.githubusercontent.com/aungthuoo/apis/main/personal/ato/ato.jpeg",
+      "position": "Senior developer",
+      "link": "https://linkedin.com/in/aungthuoo"
+    },
+    "site": "https://raw.githubusercontent.com/aungthuoo/apis/main/blogs/",
+    "categories": [
+      {
+        "name": "Node.js"
+      },
+      {
+        "name": "Express.js"
+      }
+    ],
     "date": "24 Jun, 2024",
     "title": "Express.js application structured in a modular way",
     "slug": "expressjs-application-structured-in-a-modular-way",
