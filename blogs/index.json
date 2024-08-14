@@ -9,6 +9,27 @@
     "site": "https://raw.githubusercontent.com/aungthuoo/apis/main/blogs/",
     "categories": [
       {
+        "name": "JavaScript"
+      }
+    ],
+    "date": "13 Aug, 2024",
+    "title": "Amazing things you can do with simple JavaScript",
+    "slug": "amazing-things-you-can-do-with-simple-javascript",
+    "images": [
+      "images/img-001.png"
+    ],
+    "description": "JavaScript because it's full of surprises and is used for so many amazing things. Many developers love it, and many still hate it for obvious reasons."
+  },
+  {
+    "author": {
+      "name": "Aung Thu Oo",
+      "image": "https://raw.githubusercontent.com/aungthuoo/apis/main/personal/ato/ato.jpeg",
+      "position": "Senior developer",
+      "link": "https://linkedin.com/in/aungthuoo"
+    },
+    "site": "https://raw.githubusercontent.com/aungthuoo/apis/main/blogs/",
+    "categories": [
+      {
         "name": "Node.js"
       },
       {
