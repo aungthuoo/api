@@ -12,6 +12,27 @@
         "name": "JavaScript"
       }
     ],
+    "date": "16 Aug, 2024",
+    "title": "Setting Up a Node.js Project with Prisma ORM and MySQL",
+    "slug": "node-js-project-with-prisma-orm-and-mysql",
+    "images": [
+      "images/img-001.png"
+    ],
+    "description": "Setting Up a Node.js Project with Prisma ORM and MySQL"
+  },
+  {
+    "author": {
+      "name": "Aung Thu Oo",
+      "image": "https://raw.githubusercontent.com/aungthuoo/apis/main/personal/ato/ato.jpeg",
+      "position": "Senior developer",
+      "link": "https://linkedin.com/in/aungthuoo"
+    },
+    "site": "https://raw.githubusercontent.com/aungthuoo/apis/main/blogs/",
+    "categories": [
+      {
+        "name": "JavaScript"
+      }
+    ],
     "date": "13 Aug, 2024",
     "title": "Amazing things you can do with simple JavaScript",
     "slug": "javascript-amazing-things-you-can-do-with-simple",
