@@ -12,6 +12,27 @@
         "name": "JavaScript"
       }
     ],
+    "date": "17 Aug, 2024",
+    "title": "JavaScript Tips and Tricks to become a Senior Developer",
+    "slug": "javascript-tips-and-tricks-to-become-a-senior-developer",
+    "images": [
+      "images/img-001.png"
+    ],
+    "description": "JavaScript Tips and Tricks to become a Senior Developer"
+  },
+  {
+    "author": {
+      "name": "Aung Thu Oo",
+      "image": "https://raw.githubusercontent.com/aungthuoo/apis/main/personal/ato/ato.jpeg",
+      "position": "Senior developer",
+      "link": "https://linkedin.com/in/aungthuoo"
+    },
+    "site": "https://raw.githubusercontent.com/aungthuoo/apis/main/blogs/",
+    "categories": [
+      {
+        "name": "JavaScript"
+      }
+    ],
     "date": "16 Aug, 2024",
     "title": "Setting Up a Node.js Project with Prisma ORM and MySQL",
     "slug": "node-js-project-with-prisma-orm-and-mysql",
