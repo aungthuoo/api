@@ -12,6 +12,27 @@
         "name": "JavaScript"
       }
     ],
+    "date": "19 Aug, 2024",
+    "title": "React.js - Summary note of React Hooks",
+    "slug": "reactjs-summary-note-fo-react-hooks",
+    "images": [
+      "images/img-001.png"
+    ],
+    "description": "Summary note of React Hooks"
+  },
+  {
+    "author": {
+      "name": "Aung Thu Oo",
+      "image": "https://raw.githubusercontent.com/aungthuoo/apis/main/personal/ato/ato.jpeg",
+      "position": "Senior developer",
+      "link": "https://linkedin.com/in/aungthuoo"
+    },
+    "site": "https://raw.githubusercontent.com/aungthuoo/apis/main/blogs/",
+    "categories": [
+      {
+        "name": "JavaScript"
+      }
+    ],
     "date": "17 Aug, 2024",
     "title": "JavaScript Tips and Tricks to become a Senior Developer",
     "slug": "javascript-tips-and-tricks-to-become-a-senior-developer",
