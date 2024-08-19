@@ -18,7 +18,7 @@
     "images": [
       "images/img-001.png"
     ],
-    "description": "Summary note of React Hooks"
+    "description": "React hooks are a powerful feature in React that allow you to add state and other features to functional components. I’ll explore some of the most commonly used React hooks and provide easy-to-understand examples."
   },
   {
     "author": {
