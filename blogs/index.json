@@ -12,6 +12,27 @@
         "name": "JavaScript"
       }
     ],
+    "date": "22 Aug, 2024",
+    "title": "The Difference Between the useMemo and useCallback Hooks",
+    "slug": "reactjs-the-difference-between-usememo-and-usecallback",
+    "images": [
+      "images/img-001.png"
+    ],
+    "description": "useMemo hook memoizes the return value of an expensive calculation. useCallback hook memoizes a callback function and returns it."
+  },
+  {
+    "author": {
+      "name": "Aung Thu Oo",
+      "image": "https://raw.githubusercontent.com/aungthuoo/apis/main/personal/ato/ato.jpeg",
+      "position": "Senior developer",
+      "link": "https://linkedin.com/in/aungthuoo"
+    },
+    "site": "https://raw.githubusercontent.com/aungthuoo/apis/main/blogs/",
+    "categories": [
+      {
+        "name": "JavaScript"
+      }
+    ],
     "date": "19 Aug, 2024",
     "title": "React.js - Summary note of React Hooks",
     "slug": "reactjs-summary-note-fo-react-hooks",
