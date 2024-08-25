@@ -295,5 +295,29 @@
       "images/img-001.png"
     ],
     "description": "ES6 modules are used to access variables or functions in a module explicitly exported by the modules it imports."
+  },
+  {
+    "author": {
+      "name": "Aung Thu Oo",
+      "image": "https://raw.githubusercontent.com/aungthuoo/apis/main/personal/ato/ato.jpeg",
+      "position": "Senior developer",
+      "link": "https://linkedin.com/in/aungthuoo"
+    },
+    "site": "https://raw.githubusercontent.com/aungthuoo/apis/main/blogs/",
+    "categories": [
+      {
+        "name": "React.js"
+      },
+      {
+        "name": "JavaScript"
+      }
+    ],
+    "date": "21 Jun, 2024",
+    "title": "Understanding useRef in React with a Simple Example",
+    "slug": "reactjs-useref-usage-with-simple-example",
+    "images": [
+      "images/img-001.png"
+    ],
+    "description": "useRef is a built-in function that allows you to create a reference to a DOM(Document Object Model) element, enabling direct interaction with it."
   }
 ]
