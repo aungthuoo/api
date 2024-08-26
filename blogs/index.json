@@ -15,6 +15,30 @@
         "name": "JavaScript"
       }
     ],
+    "date": "27 Jun, 2024",
+    "title": "The difference between Debouncing and Throttling in React",
+    "slug": "reactjs-the-difference-between-debouncing-throttling",
+    "images": [
+      "images/img-001.png"
+    ],
+    "description": "Debouncing delays the execution of a function until after a specified time has passed since the last event. It's useful for scenarios like search inputs, where you want to wait until the user stops typing before sending a search request."
+  },
+  {
+    "author": {
+      "name": "Aung Thu Oo",
+      "image": "https://raw.githubusercontent.com/aungthuoo/apis/main/personal/ato/ato.jpeg",
+      "position": "Senior developer",
+      "link": "https://linkedin.com/in/aungthuoo"
+    },
+    "site": "https://raw.githubusercontent.com/aungthuoo/apis/main/blogs/",
+    "categories": [
+      {
+        "name": "React.js"
+      },
+      {
+        "name": "JavaScript"
+      }
+    ],
     "date": "25 Jun, 2024",
     "title": "Understanding useRef in React with a Simple Example",
     "slug": "reactjs-useref-usage-with-simple-example",
