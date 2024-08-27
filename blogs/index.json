@@ -15,6 +15,30 @@
         "name": "JavaScript"
       }
     ],
+    "date": "28 Jun, 2024",
+    "title": "Flutter - How To Fetch API With Riverpod?",
+    "slug": "flutter-fetch-api-with-riverpod",
+    "images": [
+      "images/img-001.png"
+    ],
+    "description": "Riverpod is a reactive caching and data-binding framework that was born as an evolution of the Provider package."
+  },
+  {
+    "author": {
+      "name": "Aung Thu Oo",
+      "image": "https://raw.githubusercontent.com/aungthuoo/apis/main/personal/ato/ato.jpeg",
+      "position": "Senior developer",
+      "link": "https://linkedin.com/in/aungthuoo"
+    },
+    "site": "https://raw.githubusercontent.com/aungthuoo/apis/main/blogs/",
+    "categories": [
+      {
+        "name": "React.js"
+      },
+      {
+        "name": "JavaScript"
+      }
+    ],
     "date": "27 Jun, 2024",
     "title": "The difference between Debouncing and Throttling in React",
     "slug": "reactjs-the-difference-between-debouncing-throttling",
