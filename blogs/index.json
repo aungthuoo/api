@@ -16,6 +16,30 @@
       }
     ],
     "date": "28 Jun, 2024",
+    "title": "Flutter - Layouts",
+    "slug": "flutter-layouts",
+    "images": [
+      "images/img-001.png"
+    ],
+    "description": "Set of Flutter layout code snippets, I will keep it short, sweet and simple with loads of visual examples."
+  },
+  {
+    "author": {
+      "name": "Aung Thu Oo",
+      "image": "https://raw.githubusercontent.com/aungthuoo/apis/main/personal/ato/ato.jpeg",
+      "position": "Senior developer",
+      "link": "https://linkedin.com/in/aungthuoo"
+    },
+    "site": "https://raw.githubusercontent.com/aungthuoo/apis/main/blogs/",
+    "categories": [
+      {
+        "name": "React.js"
+      },
+      {
+        "name": "JavaScript"
+      }
+    ],
+    "date": "28 Jun, 2024",
     "title": "Flutter - How To Fetch API With Riverpod?",
     "slug": "flutter-fetch-api-with-riverpod",
     "images": [
