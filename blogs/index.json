@@ -15,6 +15,30 @@
         "name": "JavaScript"
       }
     ],
+    "date": "1 Sep, 2024",
+    "title": "Dart Essentials: A Quick Path from Beginner to Pro",
+    "slug": "dart-essentials",
+    "images": [
+      "images/img-001.png"
+    ],
+    "description": "Dart is a programming language developed by Google, and it serves as the backbone of Flutter, a popular framework for building cross-platform mobile applications. Dart’s syntax and features make it an ideal choice for Flutter, enabling fast development and smooth performance across both Android and iOS platforms. "
+  },
+  {
+    "author": {
+      "name": "Aung Thu Oo",
+      "image": "https://raw.githubusercontent.com/aungthuoo/apis/main/personal/ato/ato.jpeg",
+      "position": "Senior developer",
+      "link": "https://linkedin.com/in/aungthuoo"
+    },
+    "site": "https://raw.githubusercontent.com/aungthuoo/apis/main/blogs/",
+    "categories": [
+      {
+        "name": "React.js"
+      },
+      {
+        "name": "JavaScript"
+      }
+    ],
     "date": "28 Jun, 2024",
     "title": "Flutter - Layouts",
     "slug": "flutter-layouts",
