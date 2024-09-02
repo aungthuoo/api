@@ -15,6 +15,30 @@
         "name": "JavaScript"
       }
     ],
+    "date": "2 Sep, 2024",
+    "title": "Different kinds of Flutter Riverpod providers",
+    "slug": "difference-kinds-of-flutter-riverpod-providers",
+    "images": [
+      "images/img-001.png"
+    ],
+    "description": "In Flutter's Riverpod, there are different types of providers depending on the kind of state you want to manage. Here's a simple explanation of the main types of providers with examples:"
+  },
+  {
+    "author": {
+      "name": "Aung Thu Oo",
+      "image": "https://raw.githubusercontent.com/aungthuoo/apis/main/personal/ato/ato.jpeg",
+      "position": "Senior developer",
+      "link": "https://linkedin.com/in/aungthuoo"
+    },
+    "site": "https://raw.githubusercontent.com/aungthuoo/apis/main/blogs/",
+    "categories": [
+      {
+        "name": "React.js"
+      },
+      {
+        "name": "JavaScript"
+      }
+    ],
     "date": "1 Sep, 2024",
     "title": "Dart Essentials: A Quick Path from Beginner to Pro",
     "slug": "dart-essentials",
