@@ -15,6 +15,30 @@
         "name": "JavaScript"
       }
     ],
+    "date": "4 Sep, 2024",
+    "title": "Learning TypeScript in React.js: A Simple, Step-by-Step Approach with Examples",
+    "slug": "learning-typescript-in-react-js",
+    "images": [
+      "images/img-001.png"
+    ],
+    "description": "TypeScript is a superset of JavaScript, which means that it extends JavaScript by adding new features and capabilities."
+  },
+  {
+    "author": {
+      "name": "Aung Thu Oo",
+      "image": "https://raw.githubusercontent.com/aungthuoo/apis/main/personal/ato/ato.jpeg",
+      "position": "Senior developer",
+      "link": "https://linkedin.com/in/aungthuoo"
+    },
+    "site": "https://raw.githubusercontent.com/aungthuoo/apis/main/blogs/",
+    "categories": [
+      {
+        "name": "React.js"
+      },
+      {
+        "name": "JavaScript"
+      }
+    ],
     "date": "2 Sep, 2024",
     "title": "Understanding JavaScript Hoisting",
     "slug": "javascript-hoisting",
