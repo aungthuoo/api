@@ -15,6 +15,30 @@
         "name": "JavaScript"
       }
     ],
+    "date": "10 Sep, 2024",
+    "title": "Mastering Tailwind CSS: The Complete Guide",
+    "slug": "mastering-tailwind-css-complete-guide",
+    "images": [
+      "images/img-001.png"
+    ],
+    "description": "Generally, CSS frameworks can be divided into two groups based on their nature.Utility-based frameworks Component-based frameworks."
+  },
+  {
+    "author": {
+      "name": "Aung Thu Oo",
+      "image": "https://raw.githubusercontent.com/aungthuoo/apis/main/personal/ato/ato.jpeg",
+      "position": "Senior developer",
+      "link": "https://linkedin.com/in/aungthuoo"
+    },
+    "site": "https://raw.githubusercontent.com/aungthuoo/apis/main/blogs/",
+    "categories": [
+      {
+        "name": "React.js"
+      },
+      {
+        "name": "JavaScript"
+      }
+    ],
     "date": "4 Sep, 2024",
     "title": "Learning TypeScript in React.js: A Simple, Step-by-Step Approach with Examples",
     "slug": "learning-typescript-in-react-js",
