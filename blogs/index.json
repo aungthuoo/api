@@ -15,6 +15,30 @@
         "name": "JavaScript"
       }
     ],
+    "date": "11 Sep, 2024",
+    "title": "The difference between React.memo() and useMemo()",
+    "slug": "the-different-between-reactmemo-and-usememo",
+    "images": [
+      "images/img-001.png"
+    ],
+    "description": "React.memo() and useMemo() are both used in React to optimize performance by preventing unnecessary re-renders, but they are used in different scenarios. "
+  },
+  {
+    "author": {
+      "name": "Aung Thu Oo",
+      "image": "https://raw.githubusercontent.com/aungthuoo/apis/main/personal/ato/ato.jpeg",
+      "position": "Senior developer",
+      "link": "https://linkedin.com/in/aungthuoo"
+    },
+    "site": "https://raw.githubusercontent.com/aungthuoo/apis/main/blogs/",
+    "categories": [
+      {
+        "name": "React.js"
+      },
+      {
+        "name": "JavaScript"
+      }
+    ],
     "date": "10 Sep, 2024",
     "title": "Mastering Tailwind CSS: The Complete Guide",
     "slug": "mastering-tailwind-css-the-complete-guide",
