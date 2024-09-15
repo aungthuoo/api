@@ -15,6 +15,30 @@
         "name": "JavaScript"
       }
     ],
+    "date": "16 Sep, 2024",
+    "title": "Understanding React Design Patterns - Part - 1",
+    "slug": "understanding-react-js-design-patterns",
+    "images": [
+      "images/img-001.png"
+    ],
+    "description": "Design patterns are important in React.js because they provide a standardized and efficient way to solve common problems, leading to better organized, maintainable, and scalable code."
+  },
+  {
+    "author": {
+      "name": "Aung Thu Oo",
+      "image": "https://raw.githubusercontent.com/aungthuoo/apis/main/personal/ato/ato.jpeg",
+      "position": "Senior developer",
+      "link": "https://linkedin.com/in/aungthuoo"
+    },
+    "site": "https://raw.githubusercontent.com/aungthuoo/apis/main/blogs/",
+    "categories": [
+      {
+        "name": "React.js"
+      },
+      {
+        "name": "JavaScript"
+      }
+    ],
     "date": "11 Sep, 2024",
     "title": "The difference between React.memo() and useMemo()",
     "slug": "the-different-between-reactmemo-and-usememo",
