@@ -22,7 +22,7 @@
     "title": "Using Prisma with Node.js in a Dockerized Environment",
     "slug": "using-prisma-with-node-js-in-a-dockerized-environment",
     "images": [
-      "images/img-001.png"
+      "images/img-001.gif"
     ],
     "description": "I will use Node.js and Express. We will also use Prisma to interact with the database."
   },
