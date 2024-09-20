@@ -12,6 +12,30 @@
         "name": "Next.js"
       },
       {
+        "name": "PostgreSQL"
+      }
+    ],
+    "date": "19 Sep, 2024",
+    "title": "Install PostgreSQL in a Docker Container",
+    "slug": "install-postgresql-in-a-docker-container",
+    "images": [
+      "images/img-001.png"
+    ],
+    "description": "Install PostgreSQL in a Docker Container: A Beginner's Guide"
+  },
+  {
+    "author": {
+      "name": "Aung Thu Oo",
+      "image": "https://raw.githubusercontent.com/aungthuoo/apis/main/personal/ato/ato.jpeg",
+      "position": "Senior developer",
+      "link": "https://linkedin.com/in/aungthuoo"
+    },
+    "site": "https://raw.githubusercontent.com/aungthuoo/apis/main/blogs/",
+    "categories": [
+      {
+        "name": "Next.js"
+      },
+      {
         "name": "JavaScript"
       }
     ],
