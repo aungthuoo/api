@@ -12,6 +12,33 @@
         "name": "Next.js"
       },
       {
+        "name": "Node.js"
+      },
+      {
+        "name": "PostgreSQL"
+      }
+    ],
+    "date": "20 Sep, 2024",
+    "title": "Using Prisma with Node.js in a Dockerized Environment",
+    "slug": "using-prisma-with-node-js-in-a-dockerized-environment",
+    "images": [
+      "images/img-001.png"
+    ],
+    "description": "I will use Node.js and Express. We will also use Prisma to interact with the database."
+  },
+  {
+    "author": {
+      "name": "Aung Thu Oo",
+      "image": "https://raw.githubusercontent.com/aungthuoo/apis/main/personal/ato/ato.jpeg",
+      "position": "Senior developer",
+      "link": "https://linkedin.com/in/aungthuoo"
+    },
+    "site": "https://raw.githubusercontent.com/aungthuoo/apis/main/blogs/",
+    "categories": [
+      {
+        "name": "Next.js"
+      },
+      {
         "name": "PostgreSQL"
       }
     ],
