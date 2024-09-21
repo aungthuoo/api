@@ -18,6 +18,33 @@
         "name": "PostgreSQL"
       }
     ],
+    "date": "22 Sep, 2024",
+    "title": "Building a Simple CRUD Application with Next.js, TypeScript, and Docker",
+    "slug": "nextjs-crud-typescript-docker",
+    "images": [
+      "images/img-001.gif"
+    ],
+    "description": "Building a Simple CRUD Application with Next.js, TypeScript, and Docker"
+  },
+  {
+    "author": {
+      "name": "Aung Thu Oo",
+      "image": "https://raw.githubusercontent.com/aungthuoo/apis/main/personal/ato/ato.jpeg",
+      "position": "Senior developer",
+      "link": "https://linkedin.com/in/aungthuoo"
+    },
+    "site": "https://raw.githubusercontent.com/aungthuoo/apis/main/blogs/",
+    "categories": [
+      {
+        "name": "Next.js"
+      },
+      {
+        "name": "Node.js"
+      },
+      {
+        "name": "PostgreSQL"
+      }
+    ],
     "date": "20 Sep, 2024",
     "title": "Using Prisma with Node.js in a Dockerized Environment",
     "slug": "using-prisma-with-node-js-in-a-dockerized-environment",
