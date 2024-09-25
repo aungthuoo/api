@@ -12,6 +12,30 @@
         "name": "Next.js"
       },
       {
+        "name": "JavaScript"
+      }
+    ],
+    "date": "25 Sep, 2024",
+    "title": "Understanding Routing in Next.js",
+    "slug": "understanding-nextjs-routing",
+    "images": [
+      "images/img-001.gif"
+    ],
+    "description": "Routing is a vital component of web applications, facilitating seamless navigation between various pages and features. "
+  },
+  {
+    "author": {
+      "name": "Aung Thu Oo",
+      "image": "https://raw.githubusercontent.com/aungthuoo/apis/main/personal/ato/ato.jpeg",
+      "position": "Senior developer",
+      "link": "https://linkedin.com/in/aungthuoo"
+    },
+    "site": "https://raw.githubusercontent.com/aungthuoo/apis/main/blogs/",
+    "categories": [
+      {
+        "name": "Next.js"
+      },
+      {
         "name": "Node.js"
       },
       {
