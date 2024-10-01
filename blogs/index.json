@@ -9,6 +9,30 @@
     "site": "https://raw.githubusercontent.com/aungthuoo/apis/main/blogs/",
     "categories": [
       {
+        "name": "TypeScript"
+      },
+      {
+        "name": "JavaScript"
+      }
+    ],
+    "date": "1 Oct, 2024",
+    "title": "Understanding TypeScript",
+    "slug": "understanding-typescript",
+    "images": [
+      "images/img-001.gif"
+    ],
+    "description": "TypeScript is a superset of JavaScript, meaning that it does everything that JavaScript does, but with some added features."
+  },
+  {
+    "author": {
+      "name": "Aung Thu Oo",
+      "image": "https://raw.githubusercontent.com/aungthuoo/apis/main/personal/ato/ato.jpeg",
+      "position": "Senior developer",
+      "link": "https://linkedin.com/in/aungthuoo"
+    },
+    "site": "https://raw.githubusercontent.com/aungthuoo/apis/main/blogs/",
+    "categories": [
+      {
         "name": "Next.js"
       },
       {
