@@ -1,0 +1,462 @@
+[
+  {
+    "title": "Online Booking System",
+    "sub_title": "Tennis Playground Booking System",
+    "slug": "online-booking-system",
+    "owner": {
+      "name": "Myanmar Tennis Federation",
+      "logo": "https://raw.githubusercontent.com/aungthuoo/apis/main/projects/images/mtf/logo.png",
+      "type": "Organization",
+      "work_type": "Freelancer . Part-time",
+      "link": ""
+    },
+    "client": {
+      "name": "Myanmar Tennis Federation",
+      "logo": "",
+      "description": ""
+    },
+    "categories": [
+      {
+        "name": "Web app"
+      },
+      {
+        "name": "Playground"
+      },
+      {
+        "name": "Hotel"
+      },
+      {
+        "name": "KTV"
+      }
+    ],
+    "link": "https://myanmartennisfed.com",
+    "description": "A tennis booking system is a software application designed to manage the reservations of tennis courts. These systems are used by tennis clubs, sports facilities, and recreational centers to streamline the process of booking courts, managing schedules, and handling payments. ",
+    "images": [
+      "https://raw.githubusercontent.com/aungthuoo/apis/main/projects/images/mtf/img-001.png",
+      "https://raw.githubusercontent.com/aungthuoo/apis/main/projects/images/mtf/img-002.png",
+      "https://raw.githubusercontent.com/aungthuoo/apis/main/projects/images/mtf/img-003.png",
+      "https://raw.githubusercontent.com/aungthuoo/apis/main/projects/images/mtf/img-004.png",
+      "https://raw.githubusercontent.com/aungthuoo/apis/main/projects/images/mtf/img-005.png",
+      "https://raw.githubusercontent.com/aungthuoo/apis/main/projects/images/mtf/img-006.png",
+      "https://raw.githubusercontent.com/aungthuoo/apis/main/projects/images/mtf/img-007.png",
+      "https://raw.githubusercontent.com/aungthuoo/apis/main/projects/images/mtf/img-008.png",
+      "https://raw.githubusercontent.com/aungthuoo/apis/main/projects/images/mtf/img-000.jpg"
+    ]
+  },
+  {
+    "title": "Emergency call/ SOS System",
+    "sub_title": "Elevator Emergency Call System",
+    "slug": "sos-system",
+    "owner": {
+      "name": "SoftwareZay",
+      "logo": "https://raw.githubusercontent.com/aungthuoo/apis/main/projects/images/softwarezay/logo.png",
+      "type": "Software House",
+      "work_type": "Self-employee . Fulltime",
+      "link": "https://softwarezay.com"
+    },
+    "client": {
+      "name": "Trust Tech Co.,Ltd",
+      "logo": "",
+      "description": ""
+    },
+    "categories": [
+      {
+        "name": "Android"
+      },
+      {
+        "name": "iOS"
+      }
+    ],
+    "link": "#",
+    "description": "An emergency call system in an elevator is a safety feature designed to provide communication between passengers in the elevator and emergency personnel in case of an emergency. This system ensures that help can be summoned promptly if an elevator gets stuck, experiences a malfunction, or if a passenger has a medical emergency.",
+    "images": [
+      "https://raw.githubusercontent.com/aungthuoo/apis/main/projects/images/trust-tech/img-001.png",
+      "https://raw.githubusercontent.com/aungthuoo/apis/main/projects/images/trust-tech/img-002.png",
+      "https://raw.githubusercontent.com/aungthuoo/apis/main/projects/images/trust-tech/img-003.png",
+      "https://raw.githubusercontent.com/aungthuoo/apis/main/projects/images/trust-tech/img-004.png",
+      "https://raw.githubusercontent.com/aungthuoo/apis/main/projects/images/trust-tech/img-005.png",
+      "https://raw.githubusercontent.com/aungthuoo/apis/main/projects/images/trust-tech/img-006.png",
+      "https://raw.githubusercontent.com/aungthuoo/apis/main/projects/images/trust-tech/img-007.png"
+    ]
+  },
+  {
+    "title": "Multi-country Payroll Software",
+    "sub_title": "Better HR . Yoma Connect",
+    "slug": "better-hr",
+    "owner": {
+      "name": "Yoma Group",
+      "logo": "https://raw.githubusercontent.com/aungthuoo/apis/main/projects/images/onenex/yoma-connect/logo.png",
+      "type": "Software House",
+      "work_type": "Employee . Fulltime",
+      "link": "https://onenex.co"
+    },
+    "client": {
+      "name": "YOMA Group",
+      "logo": "https://raw.githubusercontent.com/aungthuoo/apis/main/projects/images/onenex/yoma-connect/yoma-stargic.png",
+      "description": ""
+    },
+    "categories": [
+      {
+        "name": "Android"
+      },
+      {
+        "name": "iOS"
+      },
+      {
+        "name": "Web App"
+      }
+    ],
+    "link": "#",
+    "description": "User friendly multi-country payroll software in APAC. Manage, automate payroll calculation in local compliance across multiple countries from a single system. Cambodia, Vietnam, Myanmar, Thailand, Singapore.",
+    "images": [
+      "https://raw.githubusercontent.com/aungthuoo/apis/main/projects/images/onenex/yoma-connect/img-001.png",
+      "https://raw.githubusercontent.com/aungthuoo/apis/main/projects/images/onenex/yoma-connect/img-002.png",
+      "https://raw.githubusercontent.com/aungthuoo/apis/main/projects/images/onenex/yoma-connect/img-003.png"
+    ]
+  },
+  {
+    "title": "Digital Loyalty Program",
+    "sub_title": "Pocket",
+    "slug": "better-hr",
+    "owner": {
+      "name": "DIGITAL LOYALTY SERVICE MYANMAR LIMITED",
+      "logo": "https://raw.githubusercontent.com/aungthuoo/apis/main/projects/images/onenex/pocket/logo.png",
+      "type": "Software House",
+      "work_type": "Employee . Fulltime",
+      "link": "https://onenex.co"
+    },
+    "client": {
+      "name": "DIGITAL LOYALTY SERVICE MYANMAR LIMITED",
+      "logo": "https://raw.githubusercontent.com/aungthuoo/apis/main/projects/images/onenex/pocket/logo.png",
+      "description": ""
+    },
+    "categories": [
+      {
+        "name": "Android"
+      },
+      {
+        "name": "iOS"
+      },
+      {
+        "name": "Web App"
+      }
+    ],
+    "link": "#",
+    "description": "Pocket MM is a free Android app developed by DIGITAL LOYALTY SERVICE MYANMAR LIMITED. It is a digital lifestyle platform that offers a loyalty program with a range of special incentives such as rewards, discounts, loyalty points, deals, instant gratifications, campaigns, perks, and privileges to all consumer-facing businesses.",
+    "images": [
+      "https://raw.githubusercontent.com/aungthuoo/apis/main/projects/images/onenex/pocket/img-001.png",
+      "https://raw.githubusercontent.com/aungthuoo/apis/main/projects/images/onenex/pocket/img-002.png",
+      "https://raw.githubusercontent.com/aungthuoo/apis/main/projects/images/onenex/pocket/img-003.png",
+      "https://raw.githubusercontent.com/aungthuoo/apis/main/projects/images/onenex/pocket/img-004.png",
+      "https://raw.githubusercontent.com/aungthuoo/apis/main/projects/images/onenex/pocket/img-005.png"
+    ]
+  },
+  {
+    "title": "Food Order Platform",
+    "sub_title": "Food Delivery Customer App",
+    "slug": "food-order-platform",
+    "owner": {
+      "name": "Mall Plus Myanmar",
+      "logo": "https://raw.githubusercontent.com/aungthuoo/apis/main/projects/images/mallplus/logo.png",
+      "type": "Software House",
+      "work_type": "Self-employee . Part-time",
+      "link": "https://softwarezay.com"
+    },
+    "client": {
+      "name": "Mall Plus Myanmar Co.Ltd.",
+      "logo": "",
+      "description": ""
+    },
+    "categories": [
+      {
+        "name": "Android"
+      },
+      {
+        "name": "iOS"
+      },
+      {
+        "name": "Web app"
+      }
+    ],
+    "link": "https://mallplusmm.com",
+    "description": "A food order customer app is a mobile application that allows users to browse, order, and pay for food from various restaurants or food establishments. These apps are designed to provide a convenient and user-friendly experience for customers, enabling them to satisfy their food cravings with just a few taps on their smartphones. ",
+    "images": [
+      "https://raw.githubusercontent.com/aungthuoo/apis/main/projects/images/mallplus/customer-app/img-001.jpeg",
+      "https://raw.githubusercontent.com/aungthuoo/apis/main/projects/images/mallplus/customer-app/img-002.jpeg",
+      "https://raw.githubusercontent.com/aungthuoo/apis/main/projects/images/mallplus/customer-app/img-003.jpeg",
+      "https://raw.githubusercontent.com/aungthuoo/apis/main/projects/images/mallplus/customer-app/img-004.jpeg",
+      "https://raw.githubusercontent.com/aungthuoo/apis/main/projects/images/mallplus/customer-app/img-005.jpeg",
+      "https://raw.githubusercontent.com/aungthuoo/apis/main/projects/images/mallplus/customer-app/img-006.jpeg",
+      "https://raw.githubusercontent.com/aungthuoo/apis/main/projects/images/mallplus/customer-app/img-007.jpeg",
+      "https://raw.githubusercontent.com/aungthuoo/apis/main/projects/images/mallplus/customer-app/img-008.jpeg"
+    ]
+  },
+  {
+    "title": "Order Management Restaurant System",
+    "sub_title": "Food Delivery Restaurant App",
+    "slug": "food-order-platform",
+    "owner": {
+      "name": "Mall Plus Myanmar",
+      "logo": "https://raw.githubusercontent.com/aungthuoo/apis/main/projects/images/mallplus/logo.png",
+      "type": "Software House",
+      "work_type": "Self-employee . Fulltime",
+      "link": "https://softwarezay.com"
+    },
+    "client": {
+      "name": "Mall Plus Myanmar Co.Ltd.",
+      "logo": "",
+      "description": ""
+    },
+    "categories": [
+      {
+        "name": "Android"
+      },
+      {
+        "name": "iOS"
+      },
+      {
+        "name": "Web app"
+      }
+    ],
+    "link": "https://play.google.com/store/apps/details?id=com.mallplusmm.restaurant&hl=en",
+    "description": "A food order restaurant app is a software application designed for smartphones and tablets that allows users to browse menus, place orders, and often pay for meals from restaurants. These apps can be used by both customers and restaurant owners to streamline the food ordering and delivery process.",
+    "images": [
+      "https://raw.githubusercontent.com/aungthuoo/apis/main/projects/images/mallplus/restaurant-app/img-001.png",
+      "https://raw.githubusercontent.com/aungthuoo/apis/main/projects/images/mallplus/restaurant-app/img-002.png",
+      "https://raw.githubusercontent.com/aungthuoo/apis/main/projects/images/mallplus/restaurant-app/img-003.png",
+      "https://raw.githubusercontent.com/aungthuoo/apis/main/projects/images/mallplus/restaurant-app/img-004.png",
+      "https://raw.githubusercontent.com/aungthuoo/apis/main/projects/images/mallplus/restaurant-app/img-005.png",
+      "https://raw.githubusercontent.com/aungthuoo/apis/main/projects/images/mallplus/restaurant-app/img-006.png"
+    ]
+  },
+  {
+    "title": "Location Tracking System",
+    "sub_title": "Food Delivery Biker App",
+    "slug": "food-order-platform",
+    "owner": {
+      "name": "Food Mall Myanmar",
+      "logo": "https://raw.githubusercontent.com/aungthuoo/apis/main/projects/images/mallplus/logo.png",
+      "type": "Software House",
+      "work_type": "Self-employee . Fulltime",
+      "link": "https://softwarezay.com"
+    },
+    "client": {
+      "name": "Mall Plus Myanmar Co.Ltd.",
+      "logo": "",
+      "description": ""
+    },
+    "categories": [
+      {
+        "name": "Android"
+      }
+    ],
+    "link": "https://play.google.com/store/apps/details?id=com.mallplusmm.biker&hl=en",
+    "description": "A food order rider app is a mobile application designed to facilitate and manage the delivery process for food delivery drivers (often referred to as riders). These apps are integral to the operations of food delivery services, helping to streamline and coordinate the logistics of picking up and delivering orders from restaurants to customers.",
+    "images": [
+      "https://raw.githubusercontent.com/aungthuoo/apis/main/projects/images/mallplus/biker-app/img-001.png",
+      "https://raw.githubusercontent.com/aungthuoo/apis/main/projects/images/mallplus/biker-app/img-002.png",
+      "https://raw.githubusercontent.com/aungthuoo/apis/main/projects/images/mallplus/biker-app/img-003.png",
+      "https://raw.githubusercontent.com/aungthuoo/apis/main/projects/images/mallplus/biker-app/img-004.png"
+    ]
+  },
+  {
+    "title": "Home/ apartment rent and sale system",
+    "sub_title": "Find Prpoerty Real Estate Rent and Sales ",
+    "slug": "online-booking-system",
+    "owner": {
+      "name": "Find Property",
+      "logo": "https://raw.githubusercontent.com/aungthuoo/apis/main/projects/images/lamm/logo.png",
+      "type": "Software House",
+      "work_type": "Self-employee . Fulltime",
+      "link": "https://findpropertymm.com"
+    },
+    "client": {
+      "name": "iGreen Construction Co.,Ltd.",
+      "logo": "",
+      "description": ""
+    },
+    "categories": [
+      {
+        "name": "Hotel"
+      },
+      {
+        "name": "Playground"
+      },
+      {
+        "name": "KTV"
+      }
+    ],
+    "link": "#",
+    "description": "A real estate website is an online platform designed to facilitate various aspects of real estate transactions, including buying, selling, renting, and managing properties. These websites serve as a hub for property listings, offering tools and information for buyers, sellers, renters, real estate agents, and property managers.",
+    "images": [
+      "https://raw.githubusercontent.com/aungthuoo/apis/main/projects/images/lamm/findproperty/img-001.png",
+      "https://raw.githubusercontent.com/aungthuoo/apis/main/projects/images/lamm/findproperty/img-001.png"
+    ]
+  },
+  {
+    "title": "Directory",
+    "sub_title": "Yangon Directory",
+    "slug": "yangon-directory",
+    "owner": {
+      "name": "MMRD Co.,Ltd.",
+      "logo": "https://raw.githubusercontent.com/aungthuoo/apis/main/projects/images/mmrd/logo.png",
+      "type": "Software House",
+      "work_type": "Employee . Fulltime",
+      "link": "https://yangondirectory.com"
+    },
+    "client": {
+      "name": "MMRD Co.,Ltd.",
+      "logo": "",
+      "description": ""
+    },
+    "categories": [
+      {
+        "name": "Directory"
+      },
+      {
+        "name": "Web App"
+      },
+      {
+        "name": "Website"
+      }
+    ],
+    "link": "https://yangondirectory.com/",
+    "description": "A Yangon Directory website is a type of website that organizes and lists information about various resources, businesses, or entities, typically categorized by topic, industry, or geographical location. Directory websites are designed to help users easily find and access the information they are looking for. ",
+    "images": [
+      "https://raw.githubusercontent.com/aungthuoo/apis/main/projects/images/mmrd/yangon-directory/img-001.png",
+      "https://raw.githubusercontent.com/aungthuoo/apis/main/projects/images/mmrd/yangon-directory/img-002.png",
+      "https://raw.githubusercontent.com/aungthuoo/apis/main/projects/images/mmrd/yangon-directory/img-003.png",
+      "https://raw.githubusercontent.com/aungthuoo/apis/main/projects/images/mmrd/yangon-directory/img-004.png",
+      "https://raw.githubusercontent.com/aungthuoo/apis/main/projects/images/mmrd/yangon-directory/img-005.png"
+    ]
+  },
+  {
+    "title": "Restaurant Waiter App",
+    "sub_title": "YKKO Restaurant Order System",
+    "slug": "mandalay-directory",
+    "owner": {
+      "name": "MIT",
+      "logo": "https://raw.githubusercontent.com/aungthuoo/apis/main/projects/images/mit/logo.png",
+      "type": "Software House",
+      "work_type": "Employee . Fulltime",
+      "link": "https://softwarezay.com"
+    },
+    "client": {
+      "name": "YKKO Group Co.,Ltd",
+      "logo": "",
+      "description": ""
+    },
+    "categories": [
+      {
+        "name": "Hotel"
+      },
+      {
+        "name": "Playground"
+      },
+      {
+        "name": "KTV"
+      }
+    ],
+    "link": "#",
+    "description": "",
+    "images": []
+  },
+  {
+    "title": "ERP Accounting System",
+    "sub_title": "ERP V5",
+    "slug": "erp-v5",
+    "owner": {
+      "name": "MIT",
+      "logo": "https://raw.githubusercontent.com/aungthuoo/apis/main/projects/images/mit/logo.png",
+      "type": "Software House",
+      "work_type": "Employee . Fulltime",
+      "link": ""
+    },
+    "client": {
+      "name": "City Mart",
+      "logo": "",
+      "description": ""
+    },
+    "categories": [
+      {
+        "name": "Hotel"
+      },
+      {
+        "name": "Playground"
+      },
+      {
+        "name": "KTV"
+      }
+    ],
+    "link": "#",
+    "description": "A restaurant POS (Point of Sale) app is a specialized software designed to streamline the operations of a restaurant, enhance customer service, and improve overall efficiency. Some key features commonly found in restaurant POS apps: Order Management, Menu Management, Kitchen Display System, Payment Processing and Reporting and Analytics.",
+    "images": []
+  },
+  {
+    "title": "Accounting System",
+    "sub_title": "iLedger",
+    "slug": "iledger",
+    "owner": {
+      "name": "iNTEGER System Co.,Ltd.",
+      "logo": "https://raw.githubusercontent.com/aungthuoo/apis/main/projects/images/galaxy-software/logo.png",
+      "type": "Software House",
+      "work_type": "Employee . Fulltime",
+      "link": ""
+    },
+    "client": {
+      "name": "iNTEGRA Co.,Ltd",
+      "logo": "",
+      "description": ""
+    },
+    "categories": [
+      {
+        "name": "Accounting"
+      },
+      {
+        "name": "Desktop App"
+      },
+      {
+        "name": "Web App"
+      }
+    ],
+    "link": "https://myanmartennisfed.com",
+    "description": "An accounting system is essential for managing the financial aspects of a business. It helps in recording, categorizing, and reporting financial transactions. Here are the basic features commonly found in an accounting system. The core features are General Ledger, Accounts Payable, Accounts Receivable, Bank, Financial Reporting, Budgeting and Forecasting, Tax Management, Inventory Management and Multi-Currency Support.",
+    "images": []
+  },
+  {
+    "title": "Inventory Control System",
+    "sub_title": "iStock",
+    "slug": "istock",
+    "owner": {
+      "name": "Galaxy Software",
+      "logo": "https://raw.githubusercontent.com/aungthuoo/apis/main/projects/images/galaxy-software/logo.png",
+      "type": "Software House",
+      "work_type": "Employee . Fulltime",
+      "link": ""
+    },
+    "client": {
+      "name": "Trust Tech Co.,Ltd",
+      "logo": "",
+      "description": ""
+    },
+    "categories": [
+      {
+        "name": "Accounting"
+      },
+      {
+        "name": "Inventory"
+      },
+      {
+        "name": "Desktop App"
+      }
+    ],
+    "link": "https://galaxy.com.mm/",
+    "description": "iStock®, Inventory Control System, is a software for keeping track of inventory. iStock® can handle sales, purchasing, inventory management and control of your business transactions including debit/credit, expenses, profit & loss and balance sheet. iStock is simple, fast, secure, easy to learn and straight forward to use.",
+    "images": [
+      "https://raw.githubusercontent.com/aungthuoo/apis/main/projects/images/galaxy-software/logo.png",
+      "https://raw.githubusercontent.com/aungthuoo/apis/main/projects/images/galaxy-software/img-002.png",
+      "https://raw.githubusercontent.com/aungthuoo/apis/main/projects/images/galaxy-software/img-001.png",
+      "https://raw.githubusercontent.com/aungthuoo/apis/main/projects/images/galaxy-software/img-003.png"
+    ]
+  }
+]
