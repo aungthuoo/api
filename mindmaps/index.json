@@ -9,16 +9,13 @@
     "site": "https://raw.githubusercontent.com/aungthuoo/apis/main/blogs/",
     "categories": [
       {
-        "name": "React.js"
+        "name": "CSS"
       },
       {
-        "name": "JavaScript"
-      },
-      {
-        "name": "Miroservice"
+        "name": "TailwindCSS"
       }
     ],
-    "date": "21 Oct, 2024",
+    "date": "24 Oct, 2024",
     "title": "Tailwind CSS classes and directives",
     "slug": "tailwind-css-classes-and-directives",
     "images": [
