@@ -18,7 +18,7 @@ markmap:
     block, inline-block, inline //Controls element display type.
   ```
 - Example 
-  - ```md
+  - ```html
       <div class="container mx-auto">
         <div class="block p-4 bg-white">Content</div>
       </div>
@@ -31,7 +31,7 @@ markmap:
     grid, inline-grid //Enables grid layout on an element.
   ```
 - Example 
-  - ```md
+  - ```html
       <div class="flex flex-col items-center">
         <div class="flex-1 bg-blue-500">Item 1</div>  
         <div class="flex-1 bg-green-500">Item 2</div>
@@ -44,7 +44,7 @@ markmap:
     space-x-4, space-y-4 //Adds space between child elements.
   ```
 - Example 
-  - ```md
+  - ```html
       <div class="p-4">
         <div class="m-4 bg-red-500">Content</div> 
       </div> 
