@@ -18,11 +18,11 @@ markmap:
     block, inline-block, inline //Controls element display type.
   ```
 - Example 
-  - ```
+  - 
       <div class="container mx-auto">
         <div class="block p-4 bg-white">Content</div>
       </div>
-    ```
+    
 ## Flexbox and grid
 
 - ```css
