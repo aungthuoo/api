@@ -65,9 +65,9 @@ markmap:
     text-center, text-left //Sets text alignment.
   ```
 - Example 
-  - ```
+  - 
       <p class="text-lg font-bold text-center">Hello World</p>
-    ```
+    
 ## Background and border
 - ```css 
     bg-blue-500, bg-red-200 //Sets background color.
@@ -75,9 +75,9 @@ markmap:
     rounded, rounded-lg //Sets border radius.
   ```
 - Example 
-  - ```
+  - 
       <div class="bg-blue-500 border border-2 border-red-500 rounded-lg">Content</div >
-    ```
+    
 ## Responsive design with Tailwind CSS
 - includes built-in responsive design utilities 
 -  that allow you to apply styles at specific breakpoints
@@ -89,21 +89,21 @@ markmap:
     2xl (1536px)
   ```
 - Example 
-  - ```
+  - 
       <div class="bg-red-500 sm:bg-green-500 md:bg-blue-500 lg:bg-yellow-500 xl:bg-pu rple-500">
         Responsive Content
       </div>
-    ```
+    
 ## Responsive flexbox
 - This layout stacks the items vertically on small screens
 - arranges them in a row on medium and larger screens
 - Example 
-  - ```
+  - 
       <div class="flex flex-col md:flex-row">
         <div class="flex-1 bg-red-500">Item 1</div>
         <div class="flex-1 bg-green-500">Item 2</div>
       </div>
-    ```
+    
 ## Customizing Tailwind CSS
 - Extending the theme
   - You can add custom colors, spacing, fonts, and more.
@@ -169,7 +169,7 @@ markmap:
   - A navigation bar is a crucial component of many web apps
   - allowing users to navigate through different sections of the site.
   - Example 
-    - ```
+    - 
         <nav class="bg-white shadow-md">
           <div class="px-4 mx-auto max-w-7xl sm:px-6 lg:px-8">
             <div class="flex justify-between h-16">
@@ -187,4 +187,4 @@ markmap:
               </div>
           </div>
         </nav> 
-      ```
+      
