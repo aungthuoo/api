@@ -31,12 +31,12 @@ markmap:
     grid, inline-grid //Enables grid layout on an element.
   ```
 - Example 
-  - ```
+  - 
       <div class="flex flex-col items-center">
         <div class="flex-1 bg-blue-500">Item 1</div>  
         <div class="flex-1 bg-green-500">Item 2</div>
       </div>
-    ```
+    
 ## Spacing
 - ```css
     m-4, p-4 //Sets margin and padding.
@@ -44,11 +44,11 @@ markmap:
     space-x-4, space-y-4 //Adds space between child elements.
   ```
 - Example 
-  - ```
+  - 
       <div class="p-4">
         <div class="m-4 bg-red-500">Content</div> 
       </div> 
-    ```
+    
 ## Sizing
 - ```css 
     w-1/2, h-1/4 //Sets width and height as fractions.
