@@ -55,9 +55,9 @@ markmap:
     w-full, h-screen //Sets width and height to full size.
   ```
 - Example 
-  - ```
+  - 
       <div class="w-1/2 bg-yellow-500 h-1/4">Content</div> 
-    ```
+    
 ## Typography
 - ```css 
     text-lg, text-2xl //Sets font size.
