@@ -50,7 +50,7 @@
       "title" : "Vocabulary",
       "slug" : "vocabulary", 
       "description" : "",
-      "image": [
+      "images": [
         "https://raw.githubusercontent.com/aungthuoo/apis/refs/heads/main/apps/speaknow/category/images/img-001.png"
       ],
       "link" : ""
@@ -61,7 +61,7 @@
       "title" : "Speaking pattern",
       "slug" : "speaking-pattern", 
       "description" : "",
-      "image": [
+      "images": [
         "https://raw.githubusercontent.com/aungthuoo/apis/refs/heads/main/apps/speaknow/category/images/img-001.png"
       ],
       "link" : ""
@@ -71,7 +71,7 @@
       "title" : "Grammer",
       "slug" : "grammer", 
       "description" : "",
-      "image": [
+      "images": [
         "https://raw.githubusercontent.com/aungthuoo/apis/refs/heads/main/apps/speaknow/category/images/img-001.png"
       ],
       "link" : ""
@@ -81,7 +81,7 @@
       "title" : "Short stories",
       "slug" : "short-stories", 
       "description" : "",
-      "image": [
+      "images": [
         "https://raw.githubusercontent.com/aungthuoo/apis/refs/heads/main/apps/speaknow/category/images/img-001.png"
       ],
       "link" : ""
@@ -91,7 +91,7 @@
       "title" : "Essays",
       "slug" : "essays", 
       "description" : "",
-      "image": [
+      "images": [
         "https://raw.githubusercontent.com/aungthuoo/apis/refs/heads/main/apps/speaknow/category/images/img-001.png"
       ],
       "link" : ""
