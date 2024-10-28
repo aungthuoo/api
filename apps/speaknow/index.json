@@ -6,7 +6,7 @@
       "slug" : "vocabulary", 
       "description" : "",
       "image": "",
-      "link" : ""
+      "link" : "https://raw.githubusercontent.com/aungthuoo/apis/refs/heads/main/apps/speaknow/category/images/img-001.png"
 
     },
     {
@@ -15,7 +15,7 @@
       "slug" : "speaking-pattern", 
       "description" : "",
       "image": "",
-      "link" : ""
+      "link" : "https://raw.githubusercontent.com/aungthuoo/apis/refs/heads/main/apps/speaknow/category/images/img-002.png"
     },
     {
       "id" : 3,
@@ -23,7 +23,7 @@
       "slug" : "grammer", 
       "description" : "",
       "image": "",
-      "link" : ""
+      "link" : "https://raw.githubusercontent.com/aungthuoo/apis/refs/heads/main/apps/speaknow/category/images/img-003.png"
     },
     {
       "id" : 4,
@@ -31,7 +31,7 @@
       "slug" : "short-stories", 
       "description" : "",
       "image": "",
-      "link" : ""
+      "link" : "https://raw.githubusercontent.com/aungthuoo/apis/refs/heads/main/apps/speaknow/category/images/img-004.png"
     },
     {
       "id" : 5,
@@ -39,7 +39,7 @@
       "slug" : "essays", 
       "description" : "",
       "image": "",
-      "link" : ""
+      "link" : "https://raw.githubusercontent.com/aungthuoo/apis/refs/heads/main/apps/speaknow/category/images/img-005.png"
     }
   ],
   "words": [
